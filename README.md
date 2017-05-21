@@ -15,16 +15,6 @@
 ***
 
 ### <a name = "Trees"></a> Trees
-<<<<<<< HEAD
-#### Tree Traversals
-
-                                 | recursive  | Stack | Morris |
-  ------------------------------ |----------- |-------|--------|
-   Preorder (Root, Left, Right)  |            |       |
-   Inorder  (Left, Root, Right)  |
-   Postorder(Left, Right, Root)  |
-  Time Complexity                | O(n)       | O(n)  | O(n)    |
-  Space COmplexity               | O(n)       | O(n)  | <mark>**O(1)**</mark>|
   
   
 
