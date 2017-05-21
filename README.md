@@ -15,15 +15,18 @@
 ***
 
 ### <a name = "Trees"></a> Trees
-#### Tree Traversals
 
-Option name         | recursive           | Stack              | Morris |
---------------------|------------------|-----------------------|---     |
-Preorder (Root, Left, Right) |         |                       |        
-Inorder  (Left, Root, Right) |    |    |
-Postorder(Left, Right, Root) |    |    |
-Time Complexity       | O(n)  | O(n)   | O(n)|
-Space COmplexity      | O(n)  | O(n)   | <mark>**O(1)**</mark> |
+#### Tree Traversals
+:
+
+Option name         | recursive           | Stack     | Morris|
+--------------------|------------------|-----------------------|---|
+Preorder (Root, Left, Right) |    |    |
+Inorder  (Left, Root, Right) |    |    |
+Postorder(Left, Right, Root) |    |    |
+Time Complexity      | O(n)  | O(n)    | O(n) |
+Space Complexity     | O(n)    | O(n)  | **O(1)**|
+
   
  ##### <a name = "Preorder1"></a>recursive method
   
