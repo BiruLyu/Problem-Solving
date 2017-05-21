@@ -1,3 +1,0 @@
-#### Preorder
-#### Inorder
-#### Postorder
