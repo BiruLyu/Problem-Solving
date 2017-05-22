@@ -15,8 +15,8 @@
 ***
 
 # <a name = "Trees"></a> Trees
-  
-## Binary Tree Traversals
+  
+> ## Binary Tree Traversals
 [Reference Linked 1](http://www.wengweitao.com/er-cha-shu-de-san-chong-bian-li-fang-shi-di-gui-fei-di-gui-he-morrisbian-li.html)
 :
 
@@ -47,4 +47,13 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [145. Binary Tree Postorder Traversal(Stack).java](https://gist.github.com/BiruLyu/23c325382fded6fdb742f8fb44cf31f7)
 - [145. Binary Tree Postorder Traversal(Morris).java](https://gist.github.com/BiruLyu/602031ccbebad2602d249959b6eeb9db)
 
+> ## Binary Index Tree 
+[Reference Linked 1](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
+
+<img src="https://cloud.githubusercontent.com/assets/22584778/26294026/bad25850-3e75-11e7-9b14-a218d9abe71e.png" width="50%">
+<img src="https://cloud.githubusercontent.com/assets/22584778/26294027/bad5c1d4-3e75-11e7-8274-bf46dd77ad70.png" width="20%">
+
+
+- [307. Range Sum Query - Mutable.java](https://gist.github.com/BiruLyu/dd7699e1d5ef9e9d56b006d85e9da0e6)
+- [308. Range Sum Query 2D - Mutable.java](https://gist.github.com/BiruLyu/0040163003c1560721a76fc14f430a59)
 
