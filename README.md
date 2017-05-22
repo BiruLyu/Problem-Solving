@@ -1,10 +1,12 @@
 # Problem-Solving
 
 > ## Data Structure
-> >* Arrays
+> >* [Arrays](#Arrays)
 > >* Linked
+> >* [Heaps](#Heaps)
 > >* [Trees](#Trees)
 > >* Graphs
+
 > >
 > ## Algorithms 
 > >* Greedy
@@ -13,7 +15,12 @@
 > >* Network Flow
 
 ***
+# <a name = "Arrays"></a> Arrays
+- [27. Remove Element.java](https://gist.github.com/BiruLyu/17547405dd4627c092b808f6ae1d5f2b)
 
+***
+# <a name = "Heaps"></a> Heaps
+***
 # <a name = "Trees"></a> Trees
   
 > ## Binary Tree Traversals
@@ -52,7 +59,6 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 
 <img src="https://cloud.githubusercontent.com/assets/22584778/26294026/bad25850-3e75-11e7-9b14-a218d9abe71e.png" width="50%">
 <img src="https://cloud.githubusercontent.com/assets/22584778/26294027/bad5c1d4-3e75-11e7-8274-bf46dd77ad70.png" width="20%">
-
 
 - [307. Range Sum Query - Mutable.java](https://gist.github.com/BiruLyu/dd7699e1d5ef9e9d56b006d85e9da0e6)
 - [308. Range Sum Query 2D - Mutable.java](https://gist.github.com/BiruLyu/0040163003c1560721a76fc14f430a59)
