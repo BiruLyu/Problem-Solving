@@ -16,6 +16,8 @@
 
 ***
 # <a name = "Arrays"></a> Arrays
+
+- [4. Median of Two Sorted Arrays.java](https://gist.github.com/BiruLyu/eaa515c0419d8515710e4f0125e3ed1b)
 - [27. Remove Element.java](https://gist.github.com/BiruLyu/17547405dd4627c092b808f6ae1d5f2b)
 
 ***
