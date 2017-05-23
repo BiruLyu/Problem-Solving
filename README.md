@@ -5,7 +5,10 @@
 > >* Linked
 > >* [Heaps](#Heaps)
 > >* [Trees](#Trees)
-> >* Hash Table(#HashTable)
+> >* [Hash Table](#HashTable)
+> >* [String](#String)
+
+
 > >* Graphs
 
 > >
@@ -76,3 +79,15 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [159. Longest Substring with At Most Two Distinct Characters.java](https://gist.github.com/BiruLyu/457924c6ef22c37f9e10fcb3a521ba05)
 - [170. Two Sum III - Data structure design.java](https://gist.github.com/BiruLyu/97f97b795673e4cd06843ffcee2cd9e5)
 - [187. Repeated DNA Sequences.java](https://gist.github.com/BiruLyu/08a6414f0b55d6b27afcdc0e7db8144f)
+
+# <a name = "String"></a> String
+
+- [67. Add Binary](https://gist.github.com/BiruLyu/8c037c4d2317529159d990262f01dfed)
+
+
+
+
+
+
+
+
