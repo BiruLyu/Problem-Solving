@@ -82,7 +82,9 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 
 # <a name = "String"></a> String
 
+- [58. Length of Last Word](https://gist.github.com/BiruLyu/f71c1dcee869f3d0dedc29cb8a96bda4)
 - [67. Add Binary](https://gist.github.com/BiruLyu/8c037c4d2317529159d990262f01dfed)
+- [68. Text Justification.java](https://gist.github.com/BiruLyu/4204d20703ed947bbd80d80982366784)
 
 
 
