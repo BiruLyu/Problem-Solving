@@ -1,12 +1,13 @@
 # Problem-Solving
 
-> ## Data Structure
+> ## Tags
 > >* [Arrays](#Arrays)
 > >* Linked
 > >* [Heaps](#Heaps)
 > >* [Trees](#Trees)
 > >* [Hash Table](#HashTable)
 > >* [String](#String)
+> >* [Bit Manipulation](#BitManipulation)
 
 
 > >* Graphs
@@ -86,7 +87,18 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [67. Add Binary](https://gist.github.com/BiruLyu/8c037c4d2317529159d990262f01dfed)
 - [68. Text Justification.java](https://gist.github.com/BiruLyu/4204d20703ed947bbd80d80982366784)
 
+- [5. Longest Palindromic Substring](https://gist.github.com/BiruLyu/88cff85c7904112667b881b8764e0ec7)
+- [6. ZigZag Conversion](https://gist.github.com/BiruLyu/485c7664e8d81613ee1d7e23802642c5) 
+- [8. String to Integer (atoi)](https://gist.github.com/BiruLyu/928fc7b94330bac8b218964341720b71)
+- [14. Longest Common Prefix](https://gist.github.com/BiruLyu/c12584ce303023b7e67fbefdb0abcc2b)
+- [28. Implement strStr()](https://gist.github.com/BiruLyu/c416c3013f406d266c3220236b28fecf)
+- [38. Count and Say](https://gist.github.com/BiruLyu/9d175dca70fc947fe11dda1d1b235858)
 
+# <a name = "BitManipulation"></a> Bit Manipulation 
+
+- [268. Missing Number.java](https://gist.github.com/BiruLyu/61185ce9e8790f0bf6796750c071c9fb)
+- [318. Maximum Product of Word Lengths.java](https://gist.github.com/BiruLyu/c83637e12b919f4e1c1445f9d7585bca)
+- [342. Power of Four.java](https://gist.github.com/BiruLyu/e375c6dfbe572b0c79e132f7fc1d37ba)
 
 
 
