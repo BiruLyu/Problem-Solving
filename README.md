@@ -91,6 +91,8 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [170. Two Sum III - Data structure design.java](https://gist.github.com/BiruLyu/97f97b795673e4cd06843ffcee2cd9e5)
 - [187. Repeated DNA Sequences.java](https://gist.github.com/BiruLyu/08a6414f0b55d6b27afcdc0e7db8144f)
 
+- [30. Substring with Concatenation of All Words.java](https://gist.github.com/BiruLyu/c513ab65982b006e6a8c4ad2e899384d)
+
 # <a name = "String"></a> String
 
 - [58. Length of Last Word](https://gist.github.com/BiruLyu/f71c1dcee869f3d0dedc29cb8a96bda4)
@@ -120,10 +122,11 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [260. Single Number III.java](https://gist.github.com/BiruLyu/643ced5fa530b5f5fb7dabfbdc615026)
 
 
-#<a name = "Math"></a> Math
+# <a name = "Math"></a> Math
 
 - [326. Power of Three](https://gist.github.com/BiruLyu/598797b9cff851919ccd66484f6b6840)
 
+- [7. Reverse Integer.java](https://gist.github.com/BiruLyu/8b408123bc5f8b37dedfe3c1be81ba9d)
 
 
 
