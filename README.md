@@ -71,6 +71,15 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [307. Range Sum Query - Mutable.java](https://gist.github.com/BiruLyu/dd7699e1d5ef9e9d56b006d85e9da0e6)
 - [308. Range Sum Query 2D - Mutable.java](https://gist.github.com/BiruLyu/0040163003c1560721a76fc14f430a59)
 
+- [100. Same Tree](https://gist.github.com/BiruLyu/0cea07435f3a52b314d61c9d0ae9b374)
+- [101. Symmetric Tree](https://gist.github.com/BiruLyu/51a67a7454c224d965adce9b83c24079)
+- [104. Maximum Depth of Binary Tree](https://gist.github.com/BiruLyu/56dedbad03532654c5ceb581679560fc)
+- [108. Convert Sorted Array to Binary Search Tree.java](https://gist.github.com/BiruLyu/38d9bb9b12687b11f6df86ddb8dee08a)
+- [109. Convert Sorted List to Binary Search Tree.java](https://gist.github.com/BiruLyu/34c173cf0ada76a03c9cb9bda931f4b9)
+- [110. Balanced Binary Tree](https://gist.github.com/BiruLyu/70c4cf0fc1cfb20e0fb4d3f762fe587a)
+- [111. Minimum Depth of Binary Tree](https://gist.github.com/BiruLyu/7095c32a6e7a2ee35fcf7c9516bd105e)
+
+
 # <a name = "HashTable"></a> Hash Table
 - [1. Two Sum.py](https://gist.github.com/BiruLyu/14c31c1f01f0ab6c875b497ff2c7e97c)
 - [3. Longest Substring Without Repeating Characters](https://gist.github.com/BiruLyu/96c4c7d14e831d35153bad686bdf504c/edit)
@@ -103,10 +112,17 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [318. Maximum Product of Word Lengths.java](https://gist.github.com/BiruLyu/c83637e12b919f4e1c1445f9d7585bca)
 - [342. Power of Four.java](https://gist.github.com/BiruLyu/e375c6dfbe572b0c79e132f7fc1d37ba)
 
+- [136. Single Number](https://gist.github.com/BiruLyu/e0d3d93bb9d02f0c55d0f900844a9699)
+- [201. Bitwise AND of Numbers Range](https://gist.github.com/BiruLyu/798ca552e490008d0e9d5e2e787883fe)
+- [260. Single Number III.java](https://gist.github.com/BiruLyu/643ced5fa530b5f5fb7dabfbdc615026)
+
 
 #<a name = "Math"></a> Math
 
 - [326. Power of Three](https://gist.github.com/BiruLyu/598797b9cff851919ccd66484f6b6840)
+
+
+
 
 
 
