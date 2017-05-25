@@ -113,6 +113,9 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [342. Power of Four.java](https://gist.github.com/BiruLyu/e375c6dfbe572b0c79e132f7fc1d37ba)
 
 - [136. Single Number](https://gist.github.com/BiruLyu/e0d3d93bb9d02f0c55d0f900844a9699)
+- [137. Single Number II.java](https://gist.github.com/BiruLyu/30379691a364196635edd446d0c87548)
+- [190. Reverse Bits.java](https://gist.github.com/BiruLyu/8842b52a5059a719712fb380d3326f3a)
+- [191. Number of 1 Bits](https://gist.github.com/BiruLyu/66bf80643be1b58416fa87a124e72a10)
 - [201. Bitwise AND of Numbers Range](https://gist.github.com/BiruLyu/798ca552e490008d0e9d5e2e787883fe)
 - [260. Single Number III.java](https://gist.github.com/BiruLyu/643ced5fa530b5f5fb7dabfbdc615026)
 
