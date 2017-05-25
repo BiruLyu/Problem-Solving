@@ -96,6 +96,7 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 
 # <a name = "BitManipulation"></a> Bit Manipulation 
 
+- [231. Power of Two.java](https://gist.github.com/BiruLyu/0bd293973118e63097489b5e37b28331)
 - [268. Missing Number.java](https://gist.github.com/BiruLyu/61185ce9e8790f0bf6796750c071c9fb)
 - [318. Maximum Product of Word Lengths.java](https://gist.github.com/BiruLyu/c83637e12b919f4e1c1445f9d7585bca)
 - [342. Power of Four.java](https://gist.github.com/BiruLyu/e375c6dfbe572b0c79e132f7fc1d37ba)
