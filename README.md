@@ -8,6 +8,7 @@
 > >* [Hash Table](#HashTable)
 > >* [String](#String)
 > >* [Bit Manipulation](#BitManipulation)
+> >* [Math](#Math)
 
 
 > >* Graphs
@@ -93,6 +94,7 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [14. Longest Common Prefix](https://gist.github.com/BiruLyu/c12584ce303023b7e67fbefdb0abcc2b)
 - [28. Implement strStr()](https://gist.github.com/BiruLyu/c416c3013f406d266c3220236b28fecf)
 - [38. Count and Say](https://gist.github.com/BiruLyu/9d175dca70fc947fe11dda1d1b235858)
+- [43. Multiply Strings](https://gist.github.com/BiruLyu/7095c32a6e7a2ee35fcf7c9516bd105e)
 
 # <a name = "BitManipulation"></a> Bit Manipulation 
 
@@ -100,6 +102,11 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [268. Missing Number.java](https://gist.github.com/BiruLyu/61185ce9e8790f0bf6796750c071c9fb)
 - [318. Maximum Product of Word Lengths.java](https://gist.github.com/BiruLyu/c83637e12b919f4e1c1445f9d7585bca)
 - [342. Power of Four.java](https://gist.github.com/BiruLyu/e375c6dfbe572b0c79e132f7fc1d37ba)
+
+
+#<a name = "Math"></a> Math
+
+- [326. Power of Three](https://gist.github.com/BiruLyu/598797b9cff851919ccd66484f6b6840)
 
 
 
