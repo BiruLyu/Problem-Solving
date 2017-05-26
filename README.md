@@ -9,6 +9,7 @@
 > >* [String](#String)
 > >* [Bit Manipulation](#BitManipulation)
 > >* [Math](#Math)
+> >* [Binary Search](#BinarySearch)
 
 
 > >* Graphs
@@ -23,7 +24,6 @@
 ***
 # <a name = "Arrays"></a> Arrays
 
-- [4. Median of Two Sorted Arrays.java](https://gist.github.com/BiruLyu/eaa515c0419d8515710e4f0125e3ed1b)
 - [27. Remove Element.java](https://gist.github.com/BiruLyu/17547405dd4627c092b808f6ae1d5f2b)
 
 ***
@@ -79,6 +79,10 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [110. Balanced Binary Tree](https://gist.github.com/BiruLyu/70c4cf0fc1cfb20e0fb4d3f762fe587a)
 - [111. Minimum Depth of Binary Tree](https://gist.github.com/BiruLyu/7095c32a6e7a2ee35fcf7c9516bd105e)
 
+> ## Trie Tree
+
+- [208. Implement Trie (Prefix Tree)](https://gist.github.com/BiruLyu/c416c3013f406d266c3220236b28fecf)
+
 
 # <a name = "HashTable"></a> Hash Table
 - [1. Two Sum.py](https://gist.github.com/BiruLyu/14c31c1f01f0ab6c875b497ff2c7e97c)
@@ -104,6 +108,7 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [8. String to Integer (atoi)](https://gist.github.com/BiruLyu/928fc7b94330bac8b218964341720b71)
 - [14. Longest Common Prefix](https://gist.github.com/BiruLyu/c12584ce303023b7e67fbefdb0abcc2b)
 - [28. Implement strStr()](https://gist.github.com/BiruLyu/c416c3013f406d266c3220236b28fecf)
+  [KMP Algorithm](http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/)
 - [38. Count and Say](https://gist.github.com/BiruLyu/9d175dca70fc947fe11dda1d1b235858)
 - [43. Multiply Strings](https://gist.github.com/BiruLyu/7095c32a6e7a2ee35fcf7c9516bd105e)
 
@@ -130,8 +135,8 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 
 
 
+# <a name = "BinarySearch"></a> Binary Search
 
-
-
+- [4. Median of Two Sorted Arrays.java](https://gist.github.com/BiruLyu/eaa515c0419d8515710e4f0125e3ed1b)
 
 
