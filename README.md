@@ -11,7 +11,8 @@
 > >* [Math](#Math)
 > >* [Binary Search](#BinarySearch)
 > >* [Binary Search Tree](#BinarySearchTree)
-
+> >* [BFS](#BFS)
+> >* [DFS](#DFS)
 
 > >* Graphs
 
@@ -148,4 +149,9 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 
 
 
+# <a name = "BFS"></a> BFS
+
+- [207. Course Schedule](https://gist.github.com/BiruLyu/fbb0350f62b7d1d6c7e84edb00f3f3a9)
+- [210. Course Schedule II](https://gist.github.com/BiruLyu/28728fa4f16c1874079c9efac1f4c94f) 
+- [261. Graph Valid Tree](https://gist.github.com/BiruLyu/ea6c9189b9cb36a9a5e1a605e2368076)
 
