@@ -13,6 +13,8 @@
 > >* [Binary Search Tree](#BinarySearchTree)
 > >* [BFS](#BFS)
 > >* [DFS](#DFS)
+> >* [Backtracking](#Backtracking)
+
 
 > >* Graphs
 
@@ -157,6 +159,12 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 
 # <a name = "DFS"></a> DFS
 
+- [112. Path Sum](https://gist.github.com/BiruLyu/43a6ff2cc49b3a2c6f8039d965264cca)
+- [113. Path Sum II](https://gist.github.com/BiruLyu/8cb4c2d1fc0ec13330db73275fd24f58)
 - [257. Binary Tree Paths(StringBuilder)](https://gist.github.com/BiruLyu/6c6c436919b45f2a4f26092cd1322b88)
 - [301. Remove Invalid Parentheses](https://gist.github.com/BiruLyu/90436e658c57d29731e6988f9e93eec7)
 - [282. Expression Add Operators](https://gist.github.com/BiruLyu/6e7c95d1bd50794e45d62d7fbc5399d8)
+
+# <a name = "Backtracking"> Backtracking 
+
+- [77. Combinations](https://gist.github.com/BiruLyu/3e5ef5358a798f22112cdffe50663c86)
