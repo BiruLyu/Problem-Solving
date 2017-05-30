@@ -155,3 +155,8 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [210. Course Schedule II](https://gist.github.com/BiruLyu/28728fa4f16c1874079c9efac1f4c94f) 
 - [261. Graph Valid Tree](https://gist.github.com/BiruLyu/ea6c9189b9cb36a9a5e1a605e2368076)
 
+# <a name = "DFS"></a> DFS
+
+- [257. Binary Tree Paths(StringBuilder)](https://gist.github.com/BiruLyu/6c6c436919b45f2a4f26092cd1322b88)
+- [301. Remove Invalid Parentheses](https://gist.github.com/BiruLyu/90436e658c57d29731e6988f9e93eec7)
+- [282. Expression Add Operators](https://gist.github.com/BiruLyu/6e7c95d1bd50794e45d62d7fbc5399d8)
