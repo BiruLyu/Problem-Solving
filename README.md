@@ -167,4 +167,6 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 
 # <a name = "Backtracking"> Backtracking 
 
+- [51. N-Queens](https://gist.github.com/BiruLyu/3437e144b1e194b6f84543148e7a4d9e)
+- [52. N-Queens II](https://gist.github.com/BiruLyu/56a420cd9bf8789db7d0820c729fef98)
 - [77. Combinations](https://gist.github.com/BiruLyu/3e5ef5358a798f22112cdffe50663c86)
