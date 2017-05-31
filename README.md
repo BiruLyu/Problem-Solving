@@ -180,6 +180,8 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 
 # <a name = "Backtracking"> Backtracking 
 
+- [39. Combination Sum](https://gist.github.com/BiruLyu/8256fc2644407b56ec67d73f76a80428)
+- [40. Combination Sum II](https://gist.github.com/BiruLyu/c9ead0cbbf321b96dce48c9aeaac322b)
 - [51. N-Queens](https://gist.github.com/BiruLyu/3437e144b1e194b6f84543148e7a4d9e)
 - [52. N-Queens II](https://gist.github.com/BiruLyu/56a420cd9bf8789db7d0820c729fef98)
 - [77. Combinations](https://gist.github.com/BiruLyu/3e5ef5358a798f22112cdffe50663c86)
