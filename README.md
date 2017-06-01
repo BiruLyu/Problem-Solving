@@ -14,6 +14,7 @@
 > >* [BFS](#BFS)
 > >* [DFS](#DFS)
 > >* [Backtracking](#Backtracking)
+> >* [Design](#Design)
 
 
 > >* Graphs
@@ -178,10 +179,15 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [301. Remove Invalid Parentheses](https://gist.github.com/BiruLyu/90436e658c57d29731e6988f9e93eec7)
 - [282. Expression Add Operators](https://gist.github.com/BiruLyu/6e7c95d1bd50794e45d62d7fbc5399d8)
 
-# <a name = "Backtracking"> Backtracking 
+# <a name = "Backtracking"></a> Backtracking 
 
 - [39. Combination Sum](https://gist.github.com/BiruLyu/8256fc2644407b56ec67d73f76a80428)
 - [40. Combination Sum II](https://gist.github.com/BiruLyu/c9ead0cbbf321b96dce48c9aeaac322b)
 - [51. N-Queens](https://gist.github.com/BiruLyu/3437e144b1e194b6f84543148e7a4d9e)
 - [52. N-Queens II](https://gist.github.com/BiruLyu/56a420cd9bf8789db7d0820c729fef98)
 - [77. Combinations](https://gist.github.com/BiruLyu/3e5ef5358a798f22112cdffe50663c86)
+
+# <a name = "Design"></a> Design
+
+- [380. Insert Delete GetRandom O(1)](https://gist.github.com/BiruLyu/e944a5909f258f88ad74ef163af86d02)
+- [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://gist.github.com/BiruLyu/81c42dfb09ec29d681daa53c9c8846ef)
