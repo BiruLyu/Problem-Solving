@@ -15,6 +15,7 @@
 > >* [DFS](#DFS)
 > >* [Backtracking](#Backtracking)
 > >* [Design](#Design)
+> >* [SQL](#SQL)
 
 
 > >* Graphs
@@ -191,3 +192,13 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 
 - [380. Insert Delete GetRandom O(1)](https://gist.github.com/BiruLyu/e944a5909f258f88ad74ef163af86d02)
 - [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://gist.github.com/BiruLyu/81c42dfb09ec29d681daa53c9c8846ef)
+
+- [146. LRU Cache](https://gist.github.com/BiruLyu/49b21de5835d54dd50a66e3b25a364af)
+- [225. Implement Stack using Queues](https://gist.github.com/BiruLyu/529eb43fe5d4183cb27e148504b8134d)
+
+# <a name = "SQL"></a> SQL
+- [183. Customers Who Never Order](https://gist.github.com/BiruLyu/dc4d03f0a94a668855c7fa85cf8eace7)
+- [184. Department Highest Salary](https://gist.github.com/BiruLyu/84860c92dee78669ddb3e2e316624f3a)
+- [185. Department Top Three Salaries](https://gist.github.com/BiruLyu/9e238bce2ef38b0743da925065bc84d9)
+
+
