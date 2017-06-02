@@ -201,6 +201,8 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [225. Implement Stack using Queues](https://gist.github.com/BiruLyu/529eb43fe5d4183cb27e148504b8134d)
 
 # <a name = "SQL"></a> SQL
+- [175. Combine Two Tables](https://gist.github.com/BiruLyu/b24d1583a1532bdcdbcfbdf58f8060d8)
+- [176. Second Highest Salary](https://gist.github.com/BiruLyu/c70b968de92e49a04cdaea202b21fdf2)
 - [183. Customers Who Never Order](https://gist.github.com/BiruLyu/dc4d03f0a94a668855c7fa85cf8eace7)
 - [184. Department Highest Salary](https://gist.github.com/BiruLyu/84860c92dee78669ddb3e2e316624f3a)
 - [185. Department Top Three Salaries](https://gist.github.com/BiruLyu/9e238bce2ef38b0743da925065bc84d9)
