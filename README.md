@@ -192,6 +192,7 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 
 - [284. Peeking Iterator](https://gist.github.com/BiruLyu/2113e940e03006d74d453cc28d74dd03)
 - [348. Design Tic-Tac-Toe](https://gist.github.com/BiruLyu/55c5f0ce19b8d8b375188250ec87c7a9)
+- [362. Design Hit Counter](https://gist.github.com/BiruLyu/a83efd4f4716b52b8c3eb90e0a1b9630)
 - [379. Design Phone Directory](https://gist.github.com/BiruLyu/eeb570dc1e25ee1eb1498911dd1e6360)
 - [380. Insert Delete GetRandom O(1)](https://gist.github.com/BiruLyu/e944a5909f258f88ad74ef163af86d02)
 - [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://gist.github.com/BiruLyu/81c42dfb09ec29d681daa53c9c8846ef)
