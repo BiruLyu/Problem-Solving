@@ -203,6 +203,11 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 # <a name = "SQL"></a> SQL
 - [175. Combine Two Tables](https://gist.github.com/BiruLyu/b24d1583a1532bdcdbcfbdf58f8060d8)
 - [176. Second Highest Salary](https://gist.github.com/BiruLyu/c70b968de92e49a04cdaea202b21fdf2)
+- [177. Nth Highest Salary](https://gist.github.com/BiruLyu/3de41be47e4f3c6df7730d3cbdccc74b)
+- [178. Rank Scores](https://gist.github.com/BiruLyu/c054f93c3e11796b963d07968a623503)
+- [180. Consecutive Numbers](https://gist.github.com/BiruLyu/170e2332dd879988637c3f3393561244)
+- [181. Employees Earning More Than Their Managers](https://gist.github.com/BiruLyu/d942d7663b5f883791169757c5ddd9e0)
+- [182. Duplicate Emails](https://gist.github.com/BiruLyu/3a66603b7045bf88ae1729a0fad4aa45)
 - [183. Customers Who Never Order](https://gist.github.com/BiruLyu/dc4d03f0a94a668855c7fa85cf8eace7)
 - [184. Department Highest Salary](https://gist.github.com/BiruLyu/84860c92dee78669ddb3e2e316624f3a)
 - [185. Department Top Three Salaries](https://gist.github.com/BiruLyu/9e238bce2ef38b0743da925065bc84d9)
