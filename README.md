@@ -131,6 +131,11 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [201. Bitwise AND of Numbers Range](https://gist.github.com/BiruLyu/798ca552e490008d0e9d5e2e787883fe)
 - [260. Single Number III.java](https://gist.github.com/BiruLyu/643ced5fa530b5f5fb7dabfbdc615026)
 
+***
+- [461. Hamming Distance](https://gist.github.com/BiruLyu/9678d90b208d55a6832b701bb0be6f2b)
+- [462. Minimum Moves to Equal Array Elements II](https://gist.github.com/BiruLyu/bb78a57b579f40c699c7bf9c4800b56e)
+- [477. Total Hamming Distance](https://gist.github.com/BiruLyu/100abebf5d6b8f2ff4ed6a247f2c3af2)
+
 
 # <a name = "Math"></a> Math
 
