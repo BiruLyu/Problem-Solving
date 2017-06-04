@@ -155,6 +155,9 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [449. Serialize and Deserialize BST](https://gist.github.com/BiruLyu/8d314ef55539176646476da3c7d3309c#file-449-serialize-and-deserialize-bst-java)
 - [450. Delete Node in a BST.java](https://gist.github.com/BiruLyu/50dfaac19ab72e486d1fbe316a3a6929)
 
+***
+- [333. Largest BST Subtree](https://gist.github.com/BiruLyu/04df206a1155cbc647a0b3763f003ae1)
+- [337. House Robber III](https://gist.github.com/BiruLyu/e817272a173289556d7b4e7f8741c027)
 
 
 # <a name = "BFS"></a> BFS
@@ -211,4 +214,10 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [184. Department Highest Salary](https://gist.github.com/BiruLyu/84860c92dee78669ddb3e2e316624f3a)
 - [185. Department Top Three Salaries](https://gist.github.com/BiruLyu/9e238bce2ef38b0743da925065bc84d9)
 
+
+# <a name = "Shell"></a> Shell
+- [192. Word Frequency](https://gist.github.com/BiruLyu/7bed471c5f3b37450a97d5cdc15d4414)
+- [193. Valid Phone Numbers](https://gist.github.com/BiruLyu/2ce2652d00a81f46c57e57d68fa8a71a)
+- [194. Transpose File](https://gist.github.com/BiruLyu/8d313490c2d5ce6b6bb122cbcbfdfe06)
+- [195. Tenth Line](https://gist.github.com/BiruLyu/53d5a3b1b712340b6f2ff27e2c67bcc0)
 
