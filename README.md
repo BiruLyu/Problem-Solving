@@ -1,6 +1,9 @@
 # Problem-Solving
 
 > ## Tags
+> >* [Greedy](#Greedy)
+> >* [Dynamic Programming](#DynamicProgramming)
+> >* [Sort](#Sort)
 > >* [Arrays](#Arrays)
 > >* Linked
 > >* [Heaps](#Heaps)
@@ -17,15 +20,37 @@
 > >* [Design](#Design)
 > >* [SQL](#SQL)
 
+***
+# <a name = "Greedy"></a> Greedy
 
-> >* Graphs
+***
+# <a name = "DynamicProgramming"></a> Dynamic Programming
 
-> >
-> ## Algorithms 
-> >* Greedy
-> >* Dynamic Programming 
-> >* Divide and Conquer 
-> >* Network Flow
+***
+# <a name = "Sort"></a> Sort 
+
+2017.5.10
+排一排：Sort
+- [ ] 56 Merge Intervals
+- [ ] 57 Insert Interval
+- [ ] 75 Sort Colors
+- [ ] 88 Merge Sorted Array
+- [ ] 147 Insertion Sort List
+- [ ] 148 Sort List
+- [ ] 164 Maximum Gap
+- [ ] 179 Largest Number
+
+2017.6.5
+Sort2
+- [ ] 218 The Skyline Problem	
+- [ ] 252 Meeting Rooms	
+- [ ] 253 Meeting Rooms II	
+- [ ] 274 H-Index	
+- [ ] 280 Wiggle Sort	
+- [ ] 324 Wiggle Sort II	
+- [ ] 347 Top K Frequent Elements	
+- [ ] 406 Queue Reconstruction by Height	
+- [ ] 451 Sort Characters By Frequency	
 
 ***
 # <a name = "Arrays"></a> Arrays
