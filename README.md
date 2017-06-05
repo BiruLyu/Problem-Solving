@@ -132,6 +132,9 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [260. Single Number III.java](https://gist.github.com/BiruLyu/643ced5fa530b5f5fb7dabfbdc615026)
 
 ***
+- [371. Sum of Two Integers](https://gist.github.com/BiruLyu/5c2fb5a43f7f76604f44116d92218593)
+- [389. Find the Difference](https://gist.github.com/BiruLyu/d340ccf0452eb9ebeccad45f49cc045a)
+- [393. UTF-8 Validation](https://gist.github.com/BiruLyu/80fbf97c77627df79b8bb11c7842c3b1)
 - [461. Hamming Distance](https://gist.github.com/BiruLyu/9678d90b208d55a6832b701bb0be6f2b)
 - [462. Minimum Moves to Equal Array Elements II](https://gist.github.com/BiruLyu/bb78a57b579f40c699c7bf9c4800b56e)
 - [477. Total Hamming Distance](https://gist.github.com/BiruLyu/100abebf5d6b8f2ff4ed6a247f2c3af2)
@@ -184,12 +187,17 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [301. Remove Invalid Parentheses](https://gist.github.com/BiruLyu/90436e658c57d29731e6988f9e93eec7)
 - [282. Expression Add Operators](https://gist.github.com/BiruLyu/6e7c95d1bd50794e45d62d7fbc5399d8)
 
-# <a name = "Backtracking"></a> Backtracking 
-- [39. Combination Sum](https://gist.github.com/BiruLyu/8256fc2644407b56ec67d73f76a80428)
-- [40. Combination Sum II](https://gist.github.com/BiruLyu/c9ead0cbbf321b96dce48c9aeaac322b)
-- [51. N-Queens](https://gist.github.com/BiruLyu/3437e144b1e194b6f84543148e7a4d9e)
-- [52. N-Queens II](https://gist.github.com/BiruLyu/56a420cd9bf8789db7d0820c729fef98)
-- [77. Combinations](https://gist.github.com/BiruLyu/3e5ef5358a798f22112cdffe50663c86)
+# <a name = "Backtracking"></a> Backtracking
+- [x] [17. Letter Combinations of a Phone Number](https://gist.github.com/BiruLyu/d9d26a920da4c5135f84eb1a9f33949f)
+- [x] [22. Generate Parentheses](https://gist.github.com/BiruLyu/4498265a380898e13b15f0b4639d35be)
+- [ ] [37. Sudoku Solver]()
+- [x] [39. Combination Sum](https://gist.github.com/BiruLyu/8256fc2644407b56ec67d73f76a80428)
+- [x] [40. Combination Sum II](https://gist.github.com/BiruLyu/c9ead0cbbf321b96dce48c9aeaac322b)
+- [x] [46. Permutations](https://gist.github.com/BiruLyu/ac758a4a112b104e05e7d5830dd448fb)
+- [x] [47. Permutations II](https://gist.github.com/BiruLyu/de8dc42f34c3ee1d2a44f6471a066b3e)
+- [x] [51. N-Queens](https://gist.github.com/BiruLyu/3437e144b1e194b6f84543148e7a4d9e)
+- [x] [52. N-Queens II](https://gist.github.com/BiruLyu/56a420cd9bf8789db7d0820c729fef98)
+- [x] [77. Combinations](https://gist.github.com/BiruLyu/3e5ef5358a798f22112cdffe50663c86)
 
 # <a name = "Design"></a> Design
 - [284. Peeking Iterator](https://gist.github.com/BiruLyu/2113e940e03006d74d453cc28d74dd03)
@@ -198,6 +206,7 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [379. Design Phone Directory](https://gist.github.com/BiruLyu/eeb570dc1e25ee1eb1498911dd1e6360)
 - [380. Insert Delete GetRandom O(1)](https://gist.github.com/BiruLyu/e944a5909f258f88ad74ef163af86d02)
 - [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://gist.github.com/BiruLyu/81c42dfb09ec29d681daa53c9c8846ef)
+- [432. All O`one Data Structure](https://gist.github.com/BiruLyu/73d8087d51d10d76138c957f4256ab4c)
 ***
 - [146. LRU Cache](https://gist.github.com/BiruLyu/49b21de5835d54dd50a66e3b25a364af)
 - [225. Implement Stack using Queues](https://gist.github.com/BiruLyu/529eb43fe5d4183cb27e148504b8134d)
