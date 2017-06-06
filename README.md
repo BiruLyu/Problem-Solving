@@ -48,9 +48,9 @@ Sort2
 - [ ] 274 H-Index	
 - [ ] 280 Wiggle Sort	
 - [ ] 324 Wiggle Sort II	
-- [ ] 347 Top K Frequent Elements	
-- [ ] 406 Queue Reconstruction by Height	
-- [ ] 451 Sort Characters By Frequency	
+- [x] [410. Split Array Largest Sum](https://gist.github.com/BiruLyu/e44c5a66881952ae6d8801be13bb3d34)	
+- [x] [406. Queue Reconstruction by Height](https://gist.github.com/BiruLyu/b1a1d83ef44119dcc0afb252cf3bd2f8)
+- [x] [451. Sort Characters By Frequency](https://gist.github.com/BiruLyu/324e8924eedb998130db3c3110e058e4)
 
 ***
 # <a name = "Arrays"></a> Arrays
@@ -196,6 +196,20 @@ Binary Search
 - [ ] 327 Count of Range Sum	
 - [x] [333. Largest BST Subtree](https://gist.github.com/BiruLyu/04df206a1155cbc647a0b3763f003ae1)
 - [x] [337. House Robber III](https://gist.github.com/BiruLyu/e817272a173289556d7b4e7f8741c027)
+***
+
+2017.6.6
+binary search
+- [ ] 222 Count Complete Tree Nodes	
+- [ ] 275 H-Index II	
+- [ ] 278 First Bad Version	
+- [ ] 300 Longest Increasing Subsequence	
+- [ ] 302 Smallest Rectangle Enclosing Black Pixels	
+- [ ] 354 Russian Doll Envelopes	
+- [ ] 363 Max Sum of Rectangle No Larger Than K	
+- [ ] [367. Valid Perfect Square](https://gist.github.com/BiruLyu/68988bc4626485b6d0ba2ac303440ed4)
+- [ ] [374. Guess Number Higher or Lower](https://gist.github.com/BiruLyu/ad80b225866fe5feab464cd62577eb9e)
+- [ ] 410 Split Array Largest Sum	
 
 # <a name = "BFS"></a> BFS
 - [102. Binary Tree Level Order Traversal](https://gist.github.com/BiruLyu/f4e4adc0302dd25a57213de3cdee5e9b)
