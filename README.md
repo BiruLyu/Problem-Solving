@@ -186,13 +186,13 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 ***
 2017.6.3
 Binary Search 
-- [ ] 114 Flatten Binary Tree to Linked List	
-- [ ] 116 Populating Next Right Pointers in Each Node	
-- [ ] 124 Binary Tree Maximum Path Sum	
-- [ ] 129 Sum Root to Leaf Numbers	
-- [ ] 156 Binary Tree Upside Down	
-- [ ] 241 Different Ways to Add Parentheses	
-- [ ] 298 Binary Tree Longest Consecutive Sequence	
+- [x] [114. Flatten Binary Tree to Linked List](https://gist.github.com/BiruLyu/39198237619dcfef8137d837d9c813b3)	
+- [x] [116. Populating Next Right Pointers in Each Node](https://gist.github.com/BiruLyu/ee26069ab33ed5c4b3db6d41fe006d9b)	
+- [x] [124. Binary Tree Maximum Path Sum](https://gist.github.com/BiruLyu/bea81bccd37bcaff0185a3732f1b6106)
+- [x] [129. Sum Root to Leaf Numbers](https://gist.github.com/BiruLyu/ddb27fe35409a34119460dcbf057189e)
+- [x] [156. Binary Tree Upside Down](https://gist.github.com/BiruLyu/7f995458bf00cbf2411bc76554c351f6)
+- [x] [241. Different Ways to Add Parentheses](https://gist.github.com/BiruLyu/3b66863f85893891c03dc5c6e8f49381)
+- [x] [298. Binary Tree Longest Consecutive Sequence](https://gist.github.com/BiruLyu/bb6c45d42e6e241681436bfc208c3c2c)
 - [ ] 327 Count of Range Sum	
 - [x] [333. Largest BST Subtree](https://gist.github.com/BiruLyu/04df206a1155cbc647a0b3763f003ae1)
 - [x] [337. House Robber III](https://gist.github.com/BiruLyu/e817272a173289556d7b4e7f8741c027)
