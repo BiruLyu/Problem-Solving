@@ -4,8 +4,8 @@
 > >* [Greedy](#Greedy)
 > >* [Dynamic Programming](#DynamicProgramming)
 > >* [Sort](#Sort)
+> >* [Linked List](#Linked List)
 > >* [Arrays](#Arrays)
-> >* Linked
 > >* [Heaps](#Heaps)
 > >* [Trees](#Trees)
 > >* [Hash Table](#HashTable)
@@ -52,6 +52,20 @@ Sort2
 - [x] [406. Queue Reconstruction by Height](https://gist.github.com/BiruLyu/b1a1d83ef44119dcc0afb252cf3bd2f8)
 - [x] [451. Sort Characters By Frequency](https://gist.github.com/BiruLyu/324e8924eedb998130db3c3110e058e4)
 
+***
+# <a name = "LinkedList"><a> Linked List
+2017.6.7
+Linked list 
+- [ ] 92 Reverse Linked List II	
+- [ ] 138 Copy List with Random Pointer	
+- [ ] 160 Intersection of Two Linked Lists	
+- [ ] 203 Remove Linked List Elements	
+- [ ] 206 Reverse Linked List	
+- [ ] 234 Palindrome Linked List	
+- [ ] 237 Delete Node in a Linked List	
+- [ ] 328 Odd Even Linked List	
+- [ ] 369 Plus One Linked List	
+- [ ] 445 Add Two Numbers II	
 ***
 # <a name = "Arrays"></a> Arrays
 
@@ -207,9 +221,9 @@ binary search
 - [ ] 302 Smallest Rectangle Enclosing Black Pixels	
 - [ ] 354 Russian Doll Envelopes	
 - [ ] 363 Max Sum of Rectangle No Larger Than K	
-- [ ] [367. Valid Perfect Square](https://gist.github.com/BiruLyu/68988bc4626485b6d0ba2ac303440ed4)
-- [ ] [374. Guess Number Higher or Lower](https://gist.github.com/BiruLyu/ad80b225866fe5feab464cd62577eb9e)
-- [ ] 410 Split Array Largest Sum	
+- [x] [367. Valid Perfect Square](https://gist.github.com/BiruLyu/68988bc4626485b6d0ba2ac303440ed4)
+- [x] [374. Guess Number Higher or Lower](https://gist.github.com/BiruLyu/ad80b225866fe5feab464cd62577eb9e)
+- [x] [410. Split Array Largest Sum](https://gist.github.com/BiruLyu/5b7cdfd8dc92d0c673e34ef0fcd28c7a)
 
 # <a name = "BFS"></a> BFS
 - [102. Binary Tree Level Order Traversal](https://gist.github.com/BiruLyu/f4e4adc0302dd25a57213de3cdee5e9b)
