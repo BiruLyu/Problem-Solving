@@ -5,6 +5,7 @@
 > >* [Dynamic Programming](#DynamicProgramming)
 > >* [Sort](#Sort)
 > >* [Linked List](#Linked List)
+> >* [Stack](#Stack)
 > >* [Arrays](#Arrays)
 > >* [Heaps](#Heaps)
 > >* [Trees](#Trees)
@@ -64,8 +65,22 @@ Linked list
 - [ ] 234 Palindrome Linked List	
 - [ ] 237 Delete Node in a Linked List	
 - [ ] 328 Odd Even Linked List	
-- [ ] 369 Plus One Linked List	
-- [ ] 445 Add Two Numbers II	
+- [x] [369. Plus One Linked List](https://gist.github.com/BiruLyu/b3ff7e2cfeda2736cc2d332a5070e7b5)	
+- [x] [445. Add Two Numbers II](https://gist.github.com/BiruLyu/79f091046e7c52d11490e98d5b368822)
+***
+# <a name = "Stack"></a> Stack
+2017.6.8
+Stack
+- [ ] 227 Basic Calculator II	
+- [ ] 232 Implement Queue using Stacks	
+- [ ] 255 Verify Preorder Sequence in Binary Search Tree	
+- [ ] 272 Closest Binary Search Tree Value II	
+- [ ] 331 Verify Preorder Serialization of a Binary Tree	
+- [ ] 341 Flatten Nested List Iterator	
+- [ ] 385 Mini Parser	
+- [ ] 394 Decode String	
+- [ ] 439 Ternary Expression Parser	
+- [ ] 456 132 Pattern	
 ***
 # <a name = "Arrays"></a> Arrays
 
