@@ -4,7 +4,7 @@
 > >* [Greedy](#Greedy)
 > >* [Dynamic Programming](#DynamicProgramming)
 > >* [Sort](#Sort)
-> >* [Linked List](#Linked List)
+> >* [Linked List](#LinkedList)
 > >* [Stack](#Stack)
 > >* [Arrays](#Arrays)
 > >* [Heaps](#Heaps)
@@ -79,8 +79,8 @@ Stack
 - [ ] 341 Flatten Nested List Iterator	
 - [ ] 385 Mini Parser	
 - [ ] 394 Decode String	
-- [ ] 439 Ternary Expression Parser	
-- [ ] 456 132 Pattern	
+- [x] [439. Ternary Expression Parser](https://gist.github.com/BiruLyu/68ec8149abf4331282610e9ea3ea258e)	
+- [x] [456. 132 Pattern](https://gist.github.com/BiruLyu/776c5edadee43c8d107645a6256c1e78)
 ***
 # <a name = "Arrays"></a> Arrays
 
