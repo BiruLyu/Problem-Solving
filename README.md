@@ -10,6 +10,7 @@
 > >* [Heaps](#Heaps)
 > >* [Trees](#Trees)
 > >* [Hash Table](#HashTable)
+> >* [Math](#Math)
 > >* [String](#String)
 > >* [Bit Manipulation](#BitManipulation)
 > >* [Math](#Math)
@@ -168,6 +169,22 @@ Hash Table
 - [x] [288. Unique Word Abbreviation](https://gist.github.com/BiruLyu/a3f3ad521e21f74fc38d36d8192d523d)
 ***
 - [30. Substring with Concatenation of All Words.java](https://gist.github.com/BiruLyu/c513ab65982b006e6a8c4ad2e899384d)
+
+***
+# <a name = "Math"></a> Math
+
+2017.6.10
+Math
+- [ ] 89 Gray Code	
+- [ ] 166 Fraction to Recurring Decimal	
+- [ ] 168 Excel Sheet Column Title	
+- [ ] 171 Excel Sheet Column Number	
+- [ ] 172 Factorial Trailing Zeroes	
+- [ ] 223 Rectangle Area	
+- [ ] 233 Number of Digit One	
+- [ ] 248 Strobogrammatic Number III	
+- [x] [258. Add Digits](https://gist.github.com/BiruLyu/392081e9e3b2c27374a764177f07bd99)	
+- [x] [263. Ugly Number](https://gist.github.com/BiruLyu/52b3e6bab417fb0dc1378d39250d8f79)
 
 # <a name = "String"></a> String
 
