@@ -153,6 +153,19 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [159. Longest Substring with At Most Two Distinct Characters.java](https://gist.github.com/BiruLyu/457924c6ef22c37f9e10fcb3a521ba05)
 - [170. Two Sum III - Data structure design.java](https://gist.github.com/BiruLyu/97f97b795673e4cd06843ffcee2cd9e5)
 - [187. Repeated DNA Sequences.java](https://gist.github.com/BiruLyu/08a6414f0b55d6b27afcdc0e7db8144f)
+
+2017.6.9
+Hash Table 
+- [ ] 202 Happy Number	
+- [ ] 204 Count Primes	
+- [ ] 205 Isomorphic Strings	
+- [ ] 217 Contains Duplicate	
+- [ ] 219 Contains Duplicate II	
+- [ ] 244 Shortest Word Distance II	
+- [ ] 246 Strobogrammatic Number	
+- [ ] 249 Group Shifted Strings	
+- [x] [266. Palindrome Permutation](https://gist.github.com/BiruLyu/0d2bfcc24aaee24fe7f2305634ecde64)	
+- [x] [288. Unique Word Abbreviation](https://gist.github.com/BiruLyu/a3f3ad521e21f74fc38d36d8192d523d)
 ***
 - [30. Substring with Concatenation of All Words.java](https://gist.github.com/BiruLyu/c513ab65982b006e6a8c4ad2e899384d)
 
