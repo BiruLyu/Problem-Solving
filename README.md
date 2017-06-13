@@ -71,18 +71,7 @@ Linked list
 - [x] [445. Add Two Numbers II](https://gist.github.com/BiruLyu/79f091046e7c52d11490e98d5b368822)
 ***
 # <a name = "Stack"></a> Stack
-2017.6.8
-Stack
-- [ ] 227 Basic Calculator II	
-- [ ] 232 Implement Queue using Stacks	
-- [ ] 255 Verify Preorder Sequence in Binary Search Tree	
-- [ ] 272 Closest Binary Search Tree Value II	
-- [ ] 331 Verify Preorder Serialization of a Binary Tree	
-- [ ] 341 Flatten Nested List Iterator	
-- [ ] 385 Mini Parser	
-- [ ] 394 Decode String	
-- [x] [439. Ternary Expression Parser](https://gist.github.com/BiruLyu/68ec8149abf4331282610e9ea3ea258e)	
-- [x] [456. 132 Pattern](https://gist.github.com/BiruLyu/776c5edadee43c8d107645a6256c1e78)
+
 ***
 # <a name = "Arrays"></a> Arrays
 
@@ -156,18 +145,7 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [170. Two Sum III - Data structure design.java](https://gist.github.com/BiruLyu/97f97b795673e4cd06843ffcee2cd9e5)
 - [187. Repeated DNA Sequences.java](https://gist.github.com/BiruLyu/08a6414f0b55d6b27afcdc0e7db8144f)
 
-2017.6.9
-Hash Table 
-- [x] [202. Happy Number](https://gist.github.com/BiruLyu/549588c2224a3a9dcad4f1cf4a241592)
-- [x] [204. Count Primes](https://gist.github.com/BiruLyu/faa4f2e0bd8e93c346f704a7f21ad4fa)	
-- [x] [205. Isomorphic Strings](https://gist.github.com/BiruLyu/54e2586f803e48495ae992cb881b4174)	
-- [x] [217. Contains Duplicate](https://gist.github.com/BiruLyu/5ecc32f644949223d3b98b9898085377)	
-- [x] [219. Contains Duplicate II](https://gist.github.com/BiruLyu/afb8593d00a4d06e1cf819516e48c8a3)	
-- [ ] 244 Shortest Word Distance II	
-- [x] [246. Strobogrammatic Number](https://gist.github.com/BiruLyu/94953bed273ac675717e3eb6e4802113)	
-- [x] [249. Group Shifted Strings](https://gist.github.com/BiruLyu/1a979c4d558a2a686bcd71c3aa9276be)	
-- [x] [266. Palindrome Permutation](https://gist.github.com/BiruLyu/0d2bfcc24aaee24fe7f2305634ecde64)	
-- [x] [288. Unique Word Abbreviation](https://gist.github.com/BiruLyu/a3f3ad521e21f74fc38d36d8192d523d)
+
 ***
 - [30. Substring with Concatenation of All Words.java](https://gist.github.com/BiruLyu/c513ab65982b006e6a8c4ad2e899384d)
 
@@ -326,6 +304,33 @@ binary search
 - [193. Valid Phone Numbers](https://gist.github.com/BiruLyu/2ce2652d00a81f46c57e57d68fa8a71a)
 - [194. Transpose File](https://gist.github.com/BiruLyu/8d313490c2d5ce6b6bb122cbcbfdfe06)
 - [195. Tenth Line](https://gist.github.com/BiruLyu/53d5a3b1b712340b6f2ff27e2c67bcc0)
+
+
+2017.6.8
+Stack
+- [ ] 227 Basic Calculator II	
+- [ ] 232 Implement Queue using Stacks	
+- [ ] 255 Verify Preorder Sequence in Binary Search Tree	
+- [ ] 272 Closest Binary Search Tree Value II	
+- [ ] 331 Verify Preorder Serialization of a Binary Tree	
+- [ ] 341 Flatten Nested List Iterator	
+- [ ] 385 Mini Parser	
+- [ ] 394 Decode String	
+- [x] [439. Ternary Expression Parser](https://gist.github.com/BiruLyu/68ec8149abf4331282610e9ea3ea258e)	
+- [x] [456. 132 Pattern](https://gist.github.com/BiruLyu/776c5edadee43c8d107645a6256c1e78)
+
+2017.6.9
+Hash Table 
+- [x] [202. Happy Number](https://gist.github.com/BiruLyu/549588c2224a3a9dcad4f1cf4a241592)
+- [x] [204. Count Primes](https://gist.github.com/BiruLyu/faa4f2e0bd8e93c346f704a7f21ad4fa)	
+- [x] [205. Isomorphic Strings](https://gist.github.com/BiruLyu/54e2586f803e48495ae992cb881b4174)	
+- [x] [217. Contains Duplicate](https://gist.github.com/BiruLyu/5ecc32f644949223d3b98b9898085377)	
+- [x] [219. Contains Duplicate II](https://gist.github.com/BiruLyu/afb8593d00a4d06e1cf819516e48c8a3)	
+- [ ] 244 Shortest Word Distance II	
+- [x] [246. Strobogrammatic Number](https://gist.github.com/BiruLyu/94953bed273ac675717e3eb6e4802113)	
+- [x] [249. Group Shifted Strings](https://gist.github.com/BiruLyu/1a979c4d558a2a686bcd71c3aa9276be)	
+- [x] [266. Palindrome Permutation](https://gist.github.com/BiruLyu/0d2bfcc24aaee24fe7f2305634ecde64)	
+- [x] [288. Unique Word Abbreviation](https://gist.github.com/BiruLyu/a3f3ad521e21f74fc38d36d8192d523d)
 
 2017.6.10
 Math
