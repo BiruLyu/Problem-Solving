@@ -174,18 +174,7 @@ Hash Table
 ***
 # <a name = "Math"></a> Math
 
-2017.6.10
-Math
-- [ ] 89 Gray Code	
-- [ ] 166 Fraction to Recurring Decimal	
-- [ ] 168 Excel Sheet Column Title	
-- [ ] 171 Excel Sheet Column Number	
-- [ ] 172 Factorial Trailing Zeroes	
-- [ ] 223 Rectangle Area	
-- [ ] 233 Number of Digit One	
-- [ ] 248 Strobogrammatic Number III	
-- [x] [258. Add Digits](https://gist.github.com/BiruLyu/392081e9e3b2c27374a764177f07bd99)	
-- [x] [263. Ugly Number](https://gist.github.com/BiruLyu/52b3e6bab417fb0dc1378d39250d8f79)
+
 
 # <a name = "String"></a> String
 
@@ -337,6 +326,19 @@ binary search
 - [193. Valid Phone Numbers](https://gist.github.com/BiruLyu/2ce2652d00a81f46c57e57d68fa8a71a)
 - [194. Transpose File](https://gist.github.com/BiruLyu/8d313490c2d5ce6b6bb122cbcbfdfe06)
 - [195. Tenth Line](https://gist.github.com/BiruLyu/53d5a3b1b712340b6f2ff27e2c67bcc0)
+
+2017.6.10
+Math
+- [x] [89. Gray Code](https://gist.github.com/BiruLyu/21e2d026dc7c9a2ac5c81ed77253cdd8)	
+- [ ] 166 Fraction to Recurring Decimal	
+- [x] [168. Excel Sheet Column Title](https://gist.github.com/BiruLyu/3f614e1e414a8b61b2f577e47c53e01b)	
+- [x] [171. Excel Sheet Column Number](https://gist.github.com/BiruLyu/cd2087a1a172a003643df1452d3dd9ce)
+- [x] [172. Factorial Trailing Zeroes](https://gist.github.com/BiruLyu/3e88c151a15711db9af72070d87e6b1a)
+- [ ] 223 Rectangle Area	
+- [ ] 233 Number of Digit One	
+- [ ] 248 Strobogrammatic Number III	
+- [x] [258. Add Digits](https://gist.github.com/BiruLyu/392081e9e3b2c27374a764177f07bd99)	
+- [x] [263. Ugly Number](https://gist.github.com/BiruLyu/52b3e6bab417fb0dc1378d39250d8f79)
 
 2017.6.12
 Two pointers 
