@@ -11,6 +11,7 @@
 > >* [Trees](#Trees)
 > >* [Hash Table](#HashTable)
 > >* [Math](#Math)
+> >* [TwoPointers](#TwoPointers)
 > >* [String](#String)
 > >* [Bit Manipulation](#BitManipulation)
 > >* [Math](#Math)
@@ -157,14 +158,14 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 
 2017.6.9
 Hash Table 
-- [ ] 202 Happy Number	
-- [ ] 204 Count Primes	
-- [ ] 205 Isomorphic Strings	
-- [ ] 217 Contains Duplicate	
-- [ ] 219 Contains Duplicate II	
+- [x] [202. Happy Number](https://gist.github.com/BiruLyu/549588c2224a3a9dcad4f1cf4a241592)
+- [x] [204. Count Primes](https://gist.github.com/BiruLyu/faa4f2e0bd8e93c346f704a7f21ad4fa)	
+- [x] [205. Isomorphic Strings](https://gist.github.com/BiruLyu/54e2586f803e48495ae992cb881b4174)	
+- [x] [217. Contains Duplicate](https://gist.github.com/BiruLyu/5ecc32f644949223d3b98b9898085377)	
+- [x] [219. Contains Duplicate II](https://gist.github.com/BiruLyu/afb8593d00a4d06e1cf819516e48c8a3)	
 - [ ] 244 Shortest Word Distance II	
-- [ ] 246 Strobogrammatic Number	
-- [ ] 249 Group Shifted Strings	
+- [x] [246. Strobogrammatic Number](https://gist.github.com/BiruLyu/94953bed273ac675717e3eb6e4802113)	
+- [x] [249. Group Shifted Strings](https://gist.github.com/BiruLyu/1a979c4d558a2a686bcd71c3aa9276be)	
 - [x] [266. Palindrome Permutation](https://gist.github.com/BiruLyu/0d2bfcc24aaee24fe7f2305634ecde64)	
 - [x] [288. Unique Word Abbreviation](https://gist.github.com/BiruLyu/a3f3ad521e21f74fc38d36d8192d523d)
 ***
@@ -337,3 +338,26 @@ binary search
 - [194. Transpose File](https://gist.github.com/BiruLyu/8d313490c2d5ce6b6bb122cbcbfdfe06)
 - [195. Tenth Line](https://gist.github.com/BiruLyu/53d5a3b1b712340b6f2ff27e2c67bcc0)
 
+2017.6.12
+Two pointers 
+- [ ] 287 Find the Duplicate Number	
+- [ ] 344 Reverse String	
+- [ ] 345 Reverse Vowels of a String	
+- [ ] 349 Intersection of Two Arrays	
+- [ ] 350 Intersection of Two Arrays II	
+- [ ] 360 Sort Transformed Array	
+- [ ] 457 Circular Array Loop	
+
+
+2017.6.13
+DFS & BFS
+- [ ] 269 Alien Dictionary	
+- [ ] 286 Walls and Gates	
+- [ ] 310 Minimum Height Trees	
+- [ ] 317 Shortest Distance from All Buildings	
+- [ ] 433 Minimum Genetic Mutation	
+- [ ] 444 Sequence Reconstruction	
+- [ ] 329 Longest Increasing Path in a Matrix	
+- [ ] 332 Reconstruct Itinerary	
+- [x] [339. Nested List Weight Sum](https://gist.github.com/BiruLyu/02dbfda2721ea92fe7bf251c0d2e50ab)	
+- [x] [364. Nested List Weight Sum II](https://gist.github.com/BiruLyu/a3868f67c92561e40d1669a635fd8f39)
