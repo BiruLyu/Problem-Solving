@@ -368,3 +368,17 @@ DFS & BFS
 - [ ] 332 Reconstruct Itinerary	
 - [x] [339. Nested List Weight Sum](https://gist.github.com/BiruLyu/02dbfda2721ea92fe7bf251c0d2e50ab)	
 - [x] [364. Nested List Weight Sum II](https://gist.github.com/BiruLyu/a3868f67c92561e40d1669a635fd8f39)
+
+
+2017.6.14
+BackTracking
+- [ ] 79 Word Search
+- [ ] 93 Restore IP Addresses
+- [ ] 78 Subsets
+- [ ] 90 Subsets II
+- [ ] 126 Word Ladder II
+- [ ] 131 Palindrome Partitioning
+- [ ] 140 Word Break II
+- [ ] 212 Word Search II
+- [ ] 216 Combination Sum III
+- [ ] 254 Factor Combinations
