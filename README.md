@@ -381,4 +381,4 @@ BackTracking
 - [ ] 140 Word Break II
 - [ ] 212 Word Search II
 - [x] [216. Combination Sum III](https://gist.github.com/BiruLyu/c8d16dd98edbdc0d6c4a4028bdab2d98)
-- [ ] 254 Factor Combinations
+- [x] [254. Factor Combinations](https://gist.github.com/BiruLyu/aaa19232c725bf99ea7f2261b554e6fe)
