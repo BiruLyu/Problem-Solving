@@ -380,5 +380,5 @@ BackTracking
 - [ ] 131 Palindrome Partitioning
 - [ ] 140 Word Break II
 - [ ] 212 Word Search II
-- [ ] 216 Combination Sum III
+- [x] [216. Combination Sum III](https://gist.github.com/BiruLyu/c8d16dd98edbdc0d6c4a4028bdab2d98)
 - [ ] 254 Factor Combinations
