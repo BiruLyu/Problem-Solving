@@ -372,7 +372,7 @@ DFS & BFS
 
 2017.6.14
 BackTracking
-- [ ] 79 Word Search
+- [x] [79. Word Search](https://gist.github.com/BiruLyu/9ab66e0056313cbd4a532506c349c4d4)
 - [ ] 93 Restore IP Addresses
 - [ ] 78 Subsets
 - [ ] 90 Subsets II
