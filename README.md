@@ -382,3 +382,17 @@ BackTracking
 - [ ] 212 Word Search II
 - [x] [216. Combination Sum III](https://gist.github.com/BiruLyu/c8d16dd98edbdc0d6c4a4028bdab2d98)
 - [x] [254. Factor Combinations](https://gist.github.com/BiruLyu/aaa19232c725bf99ea7f2261b554e6fe)
+
+2017.6.15
+Dynamic Programming 
+- [ ] 91 Decode Ways
+- [ ] 96 Unique Binary Search Trees
+- [ ] 97 Interleaving String
+- [ ] 115 Distinct Subsequences
+- [ ] 120 Triangle
+- [ ] 123 Best Time to Buy and Sell Stock III
+- [ ] 132 Palindrome Partitioning II
+- [ ] 139 Word Break
+- [x] [152. Maximum Product Subarray](https://gist.github.com/BiruLyu/48fc5f3b3a13ad28c82dfb1e37206031) 
+- [x] [53. Maximum Subarray](https://gist.github.com/BiruLyu/74df2c8366a8656480d68ad2a9f982fd)
+- [x] [174. Dungeon Game](https://gist.github.com/BiruLyu/85e82d0d5a57176536401564b60fddd3)
