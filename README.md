@@ -396,3 +396,14 @@ Dynamic Programming
 - [x] [152. Maximum Product Subarray](https://gist.github.com/BiruLyu/48fc5f3b3a13ad28c82dfb1e37206031) 
 - [x] [53. Maximum Subarray](https://gist.github.com/BiruLyu/74df2c8366a8656480d68ad2a9f982fd)
 - [x] [174. Dungeon Game](https://gist.github.com/BiruLyu/85e82d0d5a57176536401564b60fddd3)
+
+- [ ] 4 Median of Two Sorted Arrays
+- [ ] 23 Merge k Sorted Lists 
+- [ ] 53 Maximum Subarray 
+- [ ] 169 Majority Element 
+- [ ] 215 Kth Largest Element in an Array 
+- [ ] 218 The Skyline Problem
+- [ ] 240 Search a 2D Matrix II 
+- [ ] 241 Different Ways to Add Parentheses 
+- [x] 282 Expression Add Operators(https://gist.github.com/BiruLyu/6e7c95d1bd50794e45d62d7fbc5399d8)
+- [x] [312. Burst Balloons](https://gist.github.com/BiruLyu/b46609bca3340195ee7a8908b7dd2342) 
