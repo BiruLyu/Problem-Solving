@@ -386,10 +386,10 @@ BackTracking
 2017.6.15
 Dynamic Programming 
 - [ ] 91 Decode Ways
-- [ ] 96 Unique Binary Search Trees
+- [x] [96. Unique Binary Search Trees](https://gist.github.com/BiruLyu/b8cef1d1c1c57657d2f60079471fa47a)
 - [ ] 97 Interleaving String
 - [ ] 115 Distinct Subsequences
-- [ ] 120 Triangle
+- [x] [120. Triangle](https://gist.github.com/BiruLyu/b0e9b8ec4be4ed7f25ae3dc03a03ebf5)
 - [ ] 123 Best Time to Buy and Sell Stock III
 - [ ] 132 Palindrome Partitioning II
 - [ ] 139 Word Break
@@ -400,14 +400,14 @@ Dynamic Programming
 
 2017.6.16
 #DivideAndConquer 
-- [ ] 4 Median of Two Sorted Arrays
-- [ ] 23 Merge k Sorted Lists 
-- [ ] 53 Maximum Subarray 
-- [ ] 169 Majority Element 
+- [x] 4 Median of Two Sorted Arrays
+- [x] 23 Merge k Sorted Lists 
+- [x] 53 Maximum Subarray 
+- [x] [169. Majority Element](https://gist.github.com/BiruLyu/ad78c6aa4c04d30b1cea4f02fdd246fb)
 - [ ] 215 Kth Largest Element in an Array 
 - [ ] 218 The Skyline Problem
 - [ ] 240 Search a 2D Matrix II 
-- [ ] 241 Different Ways to Add Parentheses 
+- [x] 241 Different Ways to Add Parentheses 
 - [x] 282 Expression Add Operators(https://gist.github.com/BiruLyu/6e7c95d1bd50794e45d62d7fbc5399d8)
 - [x] [312. Burst Balloons](https://gist.github.com/BiruLyu/b46609bca3340195ee7a8908b7dd2342) 
 
@@ -418,14 +418,14 @@ Dynamic Programming
 
 2017.6.17
 #Array
-- [ ] 54 Spiral Matrix
-- [ ] 59 Spiral Matrix II
-- [ ] 66 Plus One	
-- [ ] 73 Set Matrix Zeroes	
-- [ ] 80 Remove Duplicates from Sorted Array II	
+- [x] [54. Spiral Matrix](https://gist.github.com/BiruLyu/fde00e74156f3cd04f596f295f63c1e5)
+- [x] [59. Spiral Matrix II](https://gist.github.com/BiruLyu/fbd3fdeddec33b610fe9d8c4ff6fd103)
+- [x] [66. Plus One](https://gist.github.com/BiruLyu/aa02969685d489dd44fb1fdc136b4e7a)	
+- [x] [73. Set Matrix Zeroes](https://gist.github.com/BiruLyu/07771f2dbdc24cab7a5577ebd6d3131d)
+- [x] [80. Remove Duplicates from Sorted Array II](https://gist.github.com/BiruLyu/ae8f3c4c459f8f48d30f494cbeb880ad)
 - [x] [118. Pascal's Triangle](https://gist.github.com/BiruLyu/a494115b20067a691a9dd47ab5851438)	
 - [x] [119. Pascal's Triangle II](https://gist.github.com/BiruLyu/bfe34960e1446b07f08f6cb1ef60ee66)	
-- [ ] 121 Best Time to Buy and Sell Stock	
+- [x] [121. Best Time to Buy and Sell Stock](https://gist.github.com/BiruLyu/ac26c4ae499b0ecf722af81ed7c3643b)	
 - [x] [128. Longest Consecutive Sequence](https://gist.github.com/BiruLyu/a6463e2c61f1962291a8cc173334d80b)	
 - [x] [157. Read N Characters Given Read4](https://gist.github.com/BiruLyu/e55e69e57f030904c6dfaead3ebbab41)
 
