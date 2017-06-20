@@ -397,6 +397,9 @@ Dynamic Programming
 - [x] [53. Maximum Subarray](https://gist.github.com/BiruLyu/74df2c8366a8656480d68ad2a9f982fd)
 - [x] [174. Dungeon Game](https://gist.github.com/BiruLyu/85e82d0d5a57176536401564b60fddd3)
 
+
+2017.6.16
+#DivideAndConquer 
 - [ ] 4 Median of Two Sorted Arrays
 - [ ] 23 Merge k Sorted Lists 
 - [ ] 53 Maximum Subarray 
@@ -407,3 +410,34 @@ Dynamic Programming
 - [ ] 241 Different Ways to Add Parentheses 
 - [x] 282 Expression Add Operators(https://gist.github.com/BiruLyu/6e7c95d1bd50794e45d62d7fbc5399d8)
 - [x] [312. Burst Balloons](https://gist.github.com/BiruLyu/b46609bca3340195ee7a8908b7dd2342) 
+
+- [ ] 315 Count of Smaller Numbers After Self  #Q 
+- [ ] 327 Count of Range Sum  #Q 
+- [ ] 493 Reverse Pairs  #Q 
+- [ ] 514 Freedom Trail  #Q 
+
+2017.6.17
+#Array
+- [ ] 54 Spiral Matrix
+- [ ] 59 Spiral Matrix II
+- [ ] 66 Plus One	
+- [ ] 73 Set Matrix Zeroes	
+- [ ] 80 Remove Duplicates from Sorted Array II	
+- [x] [118. Pascal's Triangle](https://gist.github.com/BiruLyu/a494115b20067a691a9dd47ab5851438)	
+- [x] [119. Pascal's Triangle II](https://gist.github.com/BiruLyu/bfe34960e1446b07f08f6cb1ef60ee66)	
+- [ ] 121 Best Time to Buy and Sell Stock	
+- [x] [128. Longest Consecutive Sequence](https://gist.github.com/BiruLyu/a6463e2c61f1962291a8cc173334d80b)	
+- [x] [157. Read N Characters Given Read4](https://gist.github.com/BiruLyu/e55e69e57f030904c6dfaead3ebbab41)
+
+2017.6.18
+#String 
+- [ ] 151 Reverse Words in a String	
+- [ ] 161 One Edit Distance	
+- [ ] 165 Compare Version Numbers	
+- [ ] 186 Reverse Words in a String II	
+- [ ] 214 Shortest Palindrome	
+- [ ] 242 Valid Anagram	
+- [ ] 271 Encode and Decode Strings	
+- [ ] 273 Integer to English Words	
+- [x] [306. Additive Number](https://gist.github.com/BiruLyu/6f40bc8d524f9da4a8f591555f7cb2b0)	
+- [x] [383. Ransom Note](https://gist.github.com/BiruLyu/8f7d69713f47708144e9539272809f75)	
