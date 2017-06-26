@@ -473,9 +473,9 @@ String
 2017.6.22
 #Tree
 - [x] [472. Concatenated Words](https://gist.github.com/BiruLyu/cc80c311a9f44260629358f97f6b03e8)
-- [ ] 425	Word Squares 	42.0%	Hard
+- [x] [425. Word Squares](https://gist.github.com/BiruLyu/2d9cc14f256d816a4b6a1771a778fd84)
 - [x] [421. Maximum XOR of Two Numbers in an Array](https://gist.github.com/BiruLyu/24487f26a78a37aa65912766a43261e0)
-- [ ] 336	Palindrome Pairs	25.8%	Hard
+- [x] [336. Palindrome Pairs](https://gist.github.com/BiruLyu/ac38380b144cfb34d36ec09ac35da6e2)
 - [x] [212. Word Search II](https://gist.github.com/BiruLyu/51c8a4465353b7fe2277d1c08f4d07f3)
 - [x] [211. Add and Search Word - Data structure design](https://gist.github.com/BiruLyu/60a9171303e72473269e6cbb17f1839f)
 - [x] 208	Implement Trie (Prefix Tree)	27.4%	Medium
