@@ -509,3 +509,16 @@ String
 - [ ] 435	Non-overlapping Intervals	
 - [x] [452. Minimum Number of Arrows to Burst Balloons](https://gist.github.com/BiruLyu/397a1b9894e1bf3d0549c9455d88ed47)
 - [x] [455. Assign Cookies](https://gist.github.com/BiruLyu/fa52992aeb3620073c7085b49342afcc)
+
+2017.6.26
+#Math
+- [ ] 523	Continuous Subarray Sum	
+- [ ] 535	Encode and Decode TinyURL	
+- [ ] 537	Complex Number Multiplication	
+- [ ] 553	Optimal Division	
+- [ ] 573	Squirrel Simulation 	
+- [ ] 592	Fraction Addition and Subtraction
+- [ ] 593	Valid Square
+- [ ] 598	Range Addition II	
+- [x] [625. Minimum Factorization](https://gist.github.com/BiruLyu/1928c258a7704c00f62926ce2d7f706d)
+- [x] [628. Maximum Product of Three Numbers](https://gist.github.com/BiruLyu/3117a9e6b42bbeff0558633228ded75b)
