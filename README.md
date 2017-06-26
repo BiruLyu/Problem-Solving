@@ -32,43 +32,9 @@
 ***
 # <a name = "Sort"></a> Sort 
 
-2017.5.10
-排一排：Sort
-- [ ] 56 Merge Intervals
-- [ ] 57 Insert Interval
-- [ ] 75 Sort Colors
-- [ ] 88 Merge Sorted Array
-- [ ] 147 Insertion Sort List
-- [ ] 148 Sort List
-- [ ] 164 Maximum Gap
-- [ ] 179 Largest Number
-
-2017.6.5
-Sort2
-- [ ] 218 The Skyline Problem	
-- [ ] 252 Meeting Rooms	
-- [ ] 253 Meeting Rooms II	
-- [ ] 274 H-Index	
-- [ ] 280 Wiggle Sort	
-- [ ] 324 Wiggle Sort II	
-- [x] [347. Top K Frequent Elements](https://gist.github.com/BiruLyu/e44c5a66881952ae6d8801be13bb3d34)	
-- [x] [406. Queue Reconstruction by Height](https://gist.github.com/BiruLyu/b1a1d83ef44119dcc0afb252cf3bd2f8)
-- [x] [451. Sort Characters By Frequency](https://gist.github.com/BiruLyu/324e8924eedb998130db3c3110e058e4)
-
 ***
 # <a name = "LinkedList"><a> Linked List
-2017.6.7
-Linked list 
-- [ ] 92 Reverse Linked List II	
-- [ ] 138 Copy List with Random Pointer	
-- [ ] 160 Intersection of Two Linked Lists	
-- [ ] 203 Remove Linked List Elements	
-- [ ] 206 Reverse Linked List	
-- [ ] 234 Palindrome Linked List	
-- [ ] 237 Delete Node in a Linked List	
-- [ ] 328 Odd Even Linked List	
-- [x] [369. Plus One Linked List](https://gist.github.com/BiruLyu/b3ff7e2cfeda2736cc2d332a5070e7b5)	
-- [x] [445. Add Two Numbers II](https://gist.github.com/BiruLyu/79f091046e7c52d11490e98d5b368822)
+
 ***
 # <a name = "Stack"></a> Stack
 
@@ -210,33 +176,7 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [449. Serialize and Deserialize BST](https://gist.github.com/BiruLyu/8d314ef55539176646476da3c7d3309c#file-449-serialize-and-deserialize-bst-java)
 - [450. Delete Node in a BST.java](https://gist.github.com/BiruLyu/50dfaac19ab72e486d1fbe316a3a6929)
 
-***
-2017.6.3
-Binary Search 
-- [x] [114. Flatten Binary Tree to Linked List](https://gist.github.com/BiruLyu/39198237619dcfef8137d837d9c813b3)	
-- [x] [116. Populating Next Right Pointers in Each Node](https://gist.github.com/BiruLyu/ee26069ab33ed5c4b3db6d41fe006d9b)	
-- [x] [124. Binary Tree Maximum Path Sum](https://gist.github.com/BiruLyu/bea81bccd37bcaff0185a3732f1b6106)
-- [x] [129. Sum Root to Leaf Numbers](https://gist.github.com/BiruLyu/ddb27fe35409a34119460dcbf057189e)
-- [x] [156. Binary Tree Upside Down](https://gist.github.com/BiruLyu/7f995458bf00cbf2411bc76554c351f6)
-- [x] [241. Different Ways to Add Parentheses](https://gist.github.com/BiruLyu/3b66863f85893891c03dc5c6e8f49381)
-- [x] [298. Binary Tree Longest Consecutive Sequence](https://gist.github.com/BiruLyu/bb6c45d42e6e241681436bfc208c3c2c)
-- [ ] 327 Count of Range Sum	
-- [x] [333. Largest BST Subtree](https://gist.github.com/BiruLyu/04df206a1155cbc647a0b3763f003ae1)
-- [x] [337. House Robber III](https://gist.github.com/BiruLyu/e817272a173289556d7b4e7f8741c027)
-***
 
-2017.6.6
-binary search
-- [ ] 222 Count Complete Tree Nodes	
-- [ ] 275 H-Index II	
-- [ ] 278 First Bad Version	
-- [ ] 300 Longest Increasing Subsequence	
-- [ ] 302 Smallest Rectangle Enclosing Black Pixels	
-- [ ] 354 Russian Doll Envelopes	
-- [ ] 363 Max Sum of Rectangle No Larger Than K	
-- [x] [367. Valid Perfect Square](https://gist.github.com/BiruLyu/68988bc4626485b6d0ba2ac303440ed4)
-- [x] [374. Guess Number Higher or Lower](https://gist.github.com/BiruLyu/ad80b225866fe5feab464cd62577eb9e)
-- [x] [410. Split Array Largest Sum](https://gist.github.com/BiruLyu/5b7cdfd8dc92d0c673e34ef0fcd28c7a)
 
 # <a name = "BFS"></a> BFS
 - [102. Binary Tree Level Order Traversal](https://gist.github.com/BiruLyu/f4e4adc0302dd25a57213de3cdee5e9b)
@@ -305,6 +245,67 @@ binary search
 - [194. Transpose File](https://gist.github.com/BiruLyu/8d313490c2d5ce6b6bb122cbcbfdfe06)
 - [195. Tenth Line](https://gist.github.com/BiruLyu/53d5a3b1b712340b6f2ff27e2c67bcc0)
 
+2017.5.10
+排一排：Sort
+- [ ] 56 Merge Intervals
+- [ ] 57 Insert Interval
+- [ ] 75 Sort Colors
+- [ ] 88 Merge Sorted Array
+- [ ] 147 Insertion Sort List
+- [ ] 148 Sort List
+- [ ] 164 Maximum Gap
+- [ ] 179 Largest Number
+
+2017.6.3
+Binary Search 
+- [x] [114. Flatten Binary Tree to Linked List](https://gist.github.com/BiruLyu/39198237619dcfef8137d837d9c813b3)	
+- [x] [116. Populating Next Right Pointers in Each Node](https://gist.github.com/BiruLyu/ee26069ab33ed5c4b3db6d41fe006d9b)	
+- [x] [124. Binary Tree Maximum Path Sum](https://gist.github.com/BiruLyu/bea81bccd37bcaff0185a3732f1b6106)
+- [x] [129. Sum Root to Leaf Numbers](https://gist.github.com/BiruLyu/ddb27fe35409a34119460dcbf057189e)
+- [x] [156. Binary Tree Upside Down](https://gist.github.com/BiruLyu/7f995458bf00cbf2411bc76554c351f6)
+- [x] [241. Different Ways to Add Parentheses](https://gist.github.com/BiruLyu/3b66863f85893891c03dc5c6e8f49381)
+- [x] [298. Binary Tree Longest Consecutive Sequence](https://gist.github.com/BiruLyu/bb6c45d42e6e241681436bfc208c3c2c)
+- [ ] 327 Count of Range Sum	
+- [x] [333. Largest BST Subtree](https://gist.github.com/BiruLyu/04df206a1155cbc647a0b3763f003ae1)
+- [x] [337. House Robber III](https://gist.github.com/BiruLyu/e817272a173289556d7b4e7f8741c027)
+
+2017.6.5
+Sort2
+- [ ] 218 The Skyline Problem	
+- [ ] 252 Meeting Rooms	
+- [ ] 253 Meeting Rooms II	
+- [ ] 274 H-Index	
+- [ ] 280 Wiggle Sort	
+- [ ] 324 Wiggle Sort II	
+- [x] [347. Top K Frequent Elements](https://gist.github.com/BiruLyu/e44c5a66881952ae6d8801be13bb3d34)	
+- [x] [406. Queue Reconstruction by Height](https://gist.github.com/BiruLyu/b1a1d83ef44119dcc0afb252cf3bd2f8)
+- [x] [451. Sort Characters By Frequency](https://gist.github.com/BiruLyu/324e8924eedb998130db3c3110e058e4)
+
+2017.6.6
+binary search
+- [ ] 222 Count Complete Tree Nodes	
+- [ ] 275 H-Index II	
+- [ ] 278 First Bad Version	
+- [ ] 300 Longest Increasing Subsequence	
+- [ ] 302 Smallest Rectangle Enclosing Black Pixels	
+- [ ] 354 Russian Doll Envelopes	
+- [ ] 363 Max Sum of Rectangle No Larger Than K	
+- [x] [367. Valid Perfect Square](https://gist.github.com/BiruLyu/68988bc4626485b6d0ba2ac303440ed4)
+- [x] [374. Guess Number Higher or Lower](https://gist.github.com/BiruLyu/ad80b225866fe5feab464cd62577eb9e)
+- [x] [410. Split Array Largest Sum](https://gist.github.com/BiruLyu/5b7cdfd8dc92d0c673e34ef0fcd28c7a)
+
+2017.6.7
+Linked list 
+- [ ] 92 Reverse Linked List II	
+- [ ] 138 Copy List with Random Pointer	
+- [ ] 160 Intersection of Two Linked Lists	
+- [ ] 203 Remove Linked List Elements	
+- [ ] 206 Reverse Linked List	
+- [ ] 234 Palindrome Linked List	
+- [ ] 237 Delete Node in a Linked List	
+- [ ] 328 Odd Even Linked List	
+- [x] [369. Plus One Linked List](https://gist.github.com/BiruLyu/b3ff7e2cfeda2736cc2d332a5070e7b5)	
+- [x] [445. Add Two Numbers II](https://gist.github.com/BiruLyu/79f091046e7c52d11490e98d5b368822)
 
 2017.6.8
 Stack
@@ -347,7 +348,7 @@ Math
 
 2017.6.12
 Two pointers 
-- [ ] 287 Find the Duplicate Number	
+- [x] [287. Find the Duplicate Number](https://gist.github.com/BiruLyu/971232846d351f488d7fd69b71f079fb)	
 - [ ] 344 Reverse String	
 - [ ] 345 Reverse Vowels of a String	
 - [ ] 349 Intersection of Two Arrays	
@@ -374,8 +375,8 @@ DFS & BFS
 BackTracking
 - [x] [79. Word Search](https://gist.github.com/BiruLyu/9ab66e0056313cbd4a532506c349c4d4)
 - [ ] 93 Restore IP Addresses
-- [ ] 78 Subsets
-- [ ] 90 Subsets II
+- [x] [78. Subsets](https://gist.github.com/BiruLyu/a03d635784f5bcd4882ea0e0eac738a1)
+- [x] [90. Subsets II](https://gist.github.com/BiruLyu/14f6e6b9be3f499e832edbb2d7e00ada)
 - [ ] 126 Word Ladder II
 - [ ] 131 Palindrome Partitioning
 - [ ] 140 Word Break II
@@ -408,7 +409,7 @@ Dynamic Programming
 - [ ] 218 The Skyline Problem
 - [ ] 240 Search a 2D Matrix II 
 - [x] 241 Different Ways to Add Parentheses 
-- [x] 282 Expression Add Operators(https://gist.github.com/BiruLyu/6e7c95d1bd50794e45d62d7fbc5399d8)
+- [x] [282 Expression Add Operators](https://gist.github.com/BiruLyu/6e7c95d1bd50794e45d62d7fbc5399d8)
 - [x] [312. Burst Balloons](https://gist.github.com/BiruLyu/b46609bca3340195ee7a8908b7dd2342) 
 
 - [ ] 315 Count of Smaller Numbers After Self  #Q 
@@ -429,15 +430,82 @@ Dynamic Programming
 - [x] [128. Longest Consecutive Sequence](https://gist.github.com/BiruLyu/a6463e2c61f1962291a8cc173334d80b)	
 - [x] [157. Read N Characters Given Read4](https://gist.github.com/BiruLyu/e55e69e57f030904c6dfaead3ebbab41)
 
-2017.6.18
+2017.6.19
 #String 
-- [ ] 151 Reverse Words in a String	
-- [ ] 161 One Edit Distance	
-- [ ] 165 Compare Version Numbers	
-- [ ] 186 Reverse Words in a String II	
-- [ ] 214 Shortest Palindrome	
-- [ ] 242 Valid Anagram	
-- [ ] 271 Encode and Decode Strings	
-- [ ] 273 Integer to English Words	
+- [x] [151. Reverse Words in a String](https://gist.github.com/BiruLyu/1a58447ebedaae2d5ec86e5e1fa51ffe)	
+- [x] [161. One Edit Distance](https://gist.github.com/BiruLyu/78f6e098276fa3e150f522e67e528696)	
+- [x] [165. Compare Version Numbers](https://gist.github.com/BiruLyu/0de65bb303e8e39c315fab49ba130389)	
+- [x] [186. Reverse Words in a String II](https://gist.github.com/BiruLyu/c7ad1f3fc33f9bab9fcef9a8ee0d6de6)	
+- [x] [214. Shortest Palindrome](https://gist.github.com/BiruLyu/039270ef9df0aa8ce6473b76bd1ce8fb)	
+- [x] [242. Valid Anagram](https://gist.github.com/BiruLyu/6a7c3d4bc2c6d2539e26ad9798430065)	
+- [x] [271. Encode and Decode Strings](https://gist.github.com/BiruLyu/cf87cf31ed9b3b473040d33f62c2d2f5)	
+- [x] [273. Integer to English Words](https://gist.github.com/BiruLyu/92694c1ab31dd94919ec8ae1905fd410)	
 - [x] [306. Additive Number](https://gist.github.com/BiruLyu/6f40bc8d524f9da4a8f591555f7cb2b0)	
 - [x] [383. Ransom Note](https://gist.github.com/BiruLyu/8f7d69713f47708144e9539272809f75)	
+
+2017.6.20
+#UnionFind
+- [x] [547. Friend Circles](https://gist.github.com/BiruLyu/96c58db2306d4e3f5e3cd3a41eb1da7d)	
+- [x] [323. Number of Connected Components in an Undirected Graph] 	
+- [x] [305. Number of Islands II](https://gist.github.com/BiruLyu/e4be1a2988bc641d91e4a3600e6d6e34)
+- [x] 261 Graph Valid Tree 	
+- [x] 200 Number of Islands	
+- [x] 130 Surrounded Regions	
+- [x] 128 Longest Consecutive Sequence
+String 
+- [x] [405. Convert a Number to Hexadecimal](https://gist.github.com/BiruLyu/17b2609509febfbeb797daefce81ad44)	
+- [x] [408. Valid Word Abbreviation](https://gist.github.com/BiruLyu/602b5fab26d963fe8433a102f849a323)	
+- [x] [415. Add Strings](https://gist.github.com/BiruLyu/43ebd5004c97b98a255fbc0463040225)
+
+2017.6.21
+#Heap 
+- [ ] 295	Find Median from Data Stream	
+- [ ] 313	Super Ugly Number	
+- [ ] 347	Top K Frequent Elements
+- [ ] 355	Design Twitter	
+- [ ] 358	Rearrange String k Distance Apart 
+- [ ] 373	Find K Pairs with Smallest Sums	
+- [ ] 378	Kth Smallest Element in a Sorted Matrix
+- [ ] 407	Trapping Rain Water II	
+- [x] 451	Sort Characters By Frequency
+- [x] [502. IPO](https://gist.github.com/BiruLyu/c468569e1d523a31479e27488e648d14)
+
+2017.6.22
+#Tree
+- [x] [472. Concatenated Words](https://gist.github.com/BiruLyu/cc80c311a9f44260629358f97f6b03e8)
+- [ ] 425	Word Squares 	42.0%	Hard
+- [x] [421. Maximum XOR of Two Numbers in an Array](https://gist.github.com/BiruLyu/24487f26a78a37aa65912766a43261e0)
+- [ ] 336	Palindrome Pairs	25.8%	Hard
+- [x] [212. Word Search II](https://gist.github.com/BiruLyu/51c8a4465353b7fe2277d1c08f4d07f3)
+- [x] [211. Add and Search Word - Data structure design](https://gist.github.com/BiruLyu/60a9171303e72473269e6cbb17f1839f)
+- [x] 208	Implement Trie (Prefix Tree)	27.4%	Medium
+- [x] [508. Most Frequent Subtree Sum](https://gist.github.com/BiruLyu/feb3b5355c4fd4d6ca7fce71aa0757b8)
+- [x] [501. Find Mode in Binary Search Tree](https://gist.github.com/BiruLyu/e7b1765557ab8d5583e5c044fca517eb)
+- [x] 450	Delete Node in a BST	36.2%	Medium
+
+2017.6.23
+#DP 
+- [ ] 600	Non-negative Integers without Consecutive Ones	
+- [ ] 576	Out of Boundary Paths	
+- [ ] 568	Maximum Vacation Days 
+- [ ] 552	Student Attendance Record II	
+- [ ] 546	Remove Boxes	
+- [ ] 523	Continuous Subarray Sum	
+- [ ] 517	Super Washing Machines	
+- [ ] 516	Longest Palindromic Subsequence	
+- [x] [514. Freedom Trail](https://gist.github.com/BiruLyu/7cd22ce5d99ff2089ea398c341b31578)
+- [x] [416. Partition Equal Subset Sum](https://gist.github.com/BiruLyu/9d41d09fca4f025bbcb6f1aa7e452518)
+- [x] [494. Target Sum](https://gist.github.com/BiruLyu/b149092cb0e946c2746ce097fb05c047)
+
+2017.6.24
+#Greedy 
+- [ ] 135	Candy	
+- [ ] 316	Remove Duplicate Letters
+- [ ] 321	Create Maximum Number	
+- [ ] 330	Patching Array
+- [ ] 376	Wiggle Subsequence	
+- [ ] 392	Is Subsequence
+- [ ] 402	Remove K Digits
+- [ ] 435	Non-overlapping Intervals	
+- [x] [452. Minimum Number of Arrows to Burst Balloons](https://gist.github.com/BiruLyu/397a1b9894e1bf3d0549c9455d88ed47)
+- [x] [455. Assign Cookies](https://gist.github.com/BiruLyu/fa52992aeb3620073c7085b49342afcc)
