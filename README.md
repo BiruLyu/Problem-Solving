@@ -523,7 +523,9 @@ String
 - [x] [625. Minimum Factorization](https://gist.github.com/BiruLyu/1928c258a7704c00f62926ce2d7f706d)
 - [x] [628. Maximum Product of Three Numbers](https://gist.github.com/BiruLyu/3117a9e6b42bbeff0558633228ded75b)
 
-149	Max Points on a Line	
+2017.6.27
+#HashTable 
+- [ ] 149	Max Points on a Line	
 - [ ] 85	Maximal Rectangle	
 - [ ] 340	Longest Substring with At Most K Distinct Characters 	
 - [ ] 159	Longest Substring with At Most Two Distinct Characters 	
