@@ -499,12 +499,12 @@ String
 
 2017.6.24
 #Greedy 
-- [ ] 135	Candy	
-- [ ] 316	Remove Duplicate Letters
+- [x] [135. Candy](https://gist.github.com/BiruLyu/92d4941eb80b80e7d2b280e120c85d68)	
+- [x] [316. Remove Duplicate Letters](https://gist.github.com/BiruLyu/3ed451135f3d9f8141024f6eea5580bf)
 - [ ] 321	Create Maximum Number	
-- [ ] 330	Patching Array
-- [ ] 376	Wiggle Subsequence	
-- [ ] 392	Is Subsequence
+- [x] [330. Patching Array](https://gist.github.com/BiruLyu/0158844039e6478dc3351fd5c6f386f5)
+- [x] [376. Wiggle Subsequence](https://gist.github.com/BiruLyu/702bc996cce28ff5de3dc1d47b4609f1)	
+- [x] [392. Is Subsequence](https://gist.github.com/BiruLyu/dcb624fe33b2ff0ebbf65131cfbd0a0d)
 - [ ] 402	Remove K Digits
 - [ ] 435	Non-overlapping Intervals	
 - [x] [452. Minimum Number of Arrows to Burst Balloons](https://gist.github.com/BiruLyu/397a1b9894e1bf3d0549c9455d88ed47)
@@ -522,3 +522,14 @@ String
 - [ ] 598	Range Addition II	
 - [x] [625. Minimum Factorization](https://gist.github.com/BiruLyu/1928c258a7704c00f62926ce2d7f706d)
 - [x] [628. Maximum Product of Three Numbers](https://gist.github.com/BiruLyu/3117a9e6b42bbeff0558633228ded75b)
+
+149	Max Points on a Line	
+- [ ] 85	Maximal Rectangle	
+- [ ] 340	Longest Substring with At Most K Distinct Characters 	
+- [ ] 159	Longest Substring with At Most Two Distinct Characters 	
+- [ ] 37	Sudoku Solver
+- [ ] 299 Bulls and Cows 
+- [ ] 311 Sparse Matrix Multiplication
+- [ ] 438 Find All Anagrams in a String
+- [x] [447. Number of Boomerangs](https://gist.github.com/BiruLyu/5193e4cc9f8f3e77b9164f33158f56a6) 
+- [x] 49 Group Anagrams	
