@@ -512,20 +512,20 @@ String
 
 2017.6.26
 #Math
-- [ ] 523	Continuous Subarray Sum	
-- [ ] 535	Encode and Decode TinyURL	
-- [ ] 537	Complex Number Multiplication	
-- [ ] 553	Optimal Division	
-- [ ] 573	Squirrel Simulation 	
-- [ ] 592	Fraction Addition and Subtraction
-- [ ] 593	Valid Square
-- [ ] 598	Range Addition II	
+- [x] [523. Continuous Subarray Sum](https://gist.github.com/BiruLyu/4d2748b38261dc5a934b84d99ab8a4fe)	
+- [x] [535. Encode and Decode TinyURL](https://gist.github.com/BiruLyu/a92171d4a8970315e47d96e652ecbba4)
+- [x] [537. Complex Number Multiplication](https://gist.github.com/BiruLyu/59deb6995c4fddbd3dcefff6a119da31)	
+- [x] [553. Optimal Division](https://gist.github.com/BiruLyu/a87d37e185f81dc3857b2c6e8051ac20)	
+- [x] [573. Squirrel Simulation](https://gist.github.com/BiruLyu/bf3c55a6337248c795bd7093bd360008) 	
+- [x] [592. Fraction Addition and Subtraction](https://gist.github.com/BiruLyu/4db297db2aa91f84713c386768650c05)
+- [x] [593. Valid Square](https://gist.github.com/BiruLyu/50608ed5509197377a27cd7954af9919)
+- [x] [598. Range Addition II](https://gist.github.com/BiruLyu/c105b4a125d3141b8957e0b170362ac8)	
 - [x] [625. Minimum Factorization](https://gist.github.com/BiruLyu/1928c258a7704c00f62926ce2d7f706d)
 - [x] [628. Maximum Product of Three Numbers](https://gist.github.com/BiruLyu/3117a9e6b42bbeff0558633228ded75b)
 
 2017.6.27
 #HashTable 
-- [ ] 149	Max Points on a Line	
+- [x] 149	Max Points on a Line	
 - [ ] 85	Maximal Rectangle	
 - [ ] 340	Longest Substring with At Most K Distinct Characters 	
 - [ ] 159	Longest Substring with At Most Two Distinct Characters 	
@@ -535,3 +535,17 @@ String
 - [ ] 438 Find All Anagrams in a String
 - [x] [447. Number of Boomerangs](https://gist.github.com/BiruLyu/5193e4cc9f8f3e77b9164f33158f56a6) 
 - [x] 49 Group Anagrams	
+
+2017.6.28
+#String 
+- [ ] 43 Multiply Strings
+- [ ] 65 Valid Number
+- [ ] 71 Simplify Path 
+- [ ] 158 Read N Characters Given Read4 II - Call multiple times 
+- [ ] 293 Flip Game
+- [ ] 434 Number of Segments in a String
+- [ ] 459 Repeated Substring Pattern 
+- [ ] 468 Validate IP Address 
+- [x] [520. Detect Capital](https://gist.github.com/BiruLyu/5f703e9c6f72e2713757897aa4d35877)
+- [x] [521. Longest Uncommon Subsequence I](https://gist.github.com/BiruLyu/a204125711f68f70978794d8601fdf75)
+- [x] [522. Longest Uncommon Subsequence II](https://gist.github.com/BiruLyu/1fcdfeab6ef6ebf373216006769cf5ef)
