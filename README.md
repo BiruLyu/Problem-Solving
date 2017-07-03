@@ -23,29 +23,12 @@
 > >* [Design](#Design)
 > >* [SQL](#SQL)
 
-***
-# <a name = "Greedy"></a> Greedy
-
-***
-# <a name = "DynamicProgramming"></a> Dynamic Programming
-
-***
-# <a name = "Sort"></a> Sort 
-
-***
-# <a name = "LinkedList"><a> Linked List
-
-***
-# <a name = "Stack"></a> Stack
 
 ***
 # <a name = "Arrays"></a> Arrays
 
 - [27. Remove Element.java](https://gist.github.com/BiruLyu/17547405dd4627c092b808f6ae1d5f2b)
 
-***
-# <a name = "Heaps"></a> Heaps
-***
 # <a name = "Trees"></a> Trees
   
 > ## Binary Tree Traversals
@@ -115,11 +98,6 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 ***
 - [30. Substring with Concatenation of All Words.java](https://gist.github.com/BiruLyu/c513ab65982b006e6a8c4ad2e899384d)
 
-***
-# <a name = "Math"></a> Math
-
-
-
 # <a name = "String"></a> String
 
 - [58. Length of Last Word](https://gist.github.com/BiruLyu/f71c1dcee869f3d0dedc29cb8a96bda4)
@@ -163,7 +141,6 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 - [326. Power of Three](https://gist.github.com/BiruLyu/598797b9cff851919ccd66484f6b6840)
 ***
 - [7. Reverse Integer.java](https://gist.github.com/BiruLyu/8b408123bc5f8b37dedfe3c1be81ba9d)
-
 
 
 # <a name = "BinarySearch"></a> Binary Search
@@ -538,14 +515,53 @@ String
 
 2017.6.28
 #String 
-- [ ] 43 Multiply Strings
-- [ ] 65 Valid Number
-- [ ] 71 Simplify Path 
-- [ ] 158 Read N Characters Given Read4 II - Call multiple times 
-- [ ] 293 Flip Game
-- [ ] 434 Number of Segments in a String
-- [ ] 459 Repeated Substring Pattern 
-- [ ] 468 Validate IP Address 
+- [x] 43 Multiply Strings
+- [x] [65. Valid Number](https://gist.github.com/BiruLyu/25bad5ab21b41ca38ad5003c9ed84357)
+- [x] [71. Simplify Path](https://gist.github.com/BiruLyu/6d77a40d90c16fb7c2b7c43e88c64812) 
+- [x] [158. Read N Characters Given Read4 II - Call multiple times](https://gist.github.com/BiruLyu/fb379c58a83f08fb08c3c55475d0def8) 
+- [x] [293. Flip Game](https://gist.github.com/BiruLyu/f3dbce51804731027b7695353bd31cbe)
+- [x] [434. Number of Segments in a String](https://gist.github.com/BiruLyu/692f2c4bf921b454b156f4af696683b5)
+- [x] [459. Repeated Substring Pattern](https://gist.github.com/BiruLyu/829cc53b356f9cb0c3a52b20a55cf678)
+- [x] [468. Validate IP Address](https://gist.github.com/BiruLyu/1ec7904aca36301b6a2eadd5174b3c60) 
 - [x] [520. Detect Capital](https://gist.github.com/BiruLyu/5f703e9c6f72e2713757897aa4d35877)
 - [x] [521. Longest Uncommon Subsequence I](https://gist.github.com/BiruLyu/a204125711f68f70978794d8601fdf75)
 - [x] [522. Longest Uncommon Subsequence II](https://gist.github.com/BiruLyu/1fcdfeab6ef6ebf373216006769cf5ef)
+
+2017.6.29
+#Array 
+- [ ] 163 Missing Ranges
+- [ ] 189 Rotate Array
+- [ ] 209 Minimum Size Subarray Sum 
+- [ ] 228 Summary Ranges 
+- [x] [229. Majority Element II](https://gist.github.com/BiruLyu/acfb0c70279ad5d76f08ff477926c4c1) 
+- [ ] 238 Product of Array Except Self 
+- [ ] 243 Shortest Word Distance 
+- [ ] 245 Shortest Word Distance III 
+- [x] [277. Find the Celebrity](https://gist.github.com/BiruLyu/d0653c9065d7bda681de06da2e2e6995) 
+- [x] [289. Game of Life](https://gist.github.com/BiruLyu/5bd8e5f211cfd4d9cc33a86dac6fa58c)
+
+2017.6.30
+#Queue #Stack #Array 
+- [x] [582. Kill Process](https://gist.github.com/BiruLyu/4f10b3203e333101215f05d2df5e7ed4)
+- [x] [621. Task Scheduler](https://gist.github.com/BiruLyu/b7dcee3cc547ccaec112dcdd10a3a478)	
+- [x] [496. Next Greater Element I](https://gist.github.com/BiruLyu/7149a290f7b6aff804438ffb41103c30) 
+- [x] [503. Next Greater Element II](https://gist.github.com/BiruLyu/8b8d36ec4e4e7b2e86cbc23ebedae65c) 
+- [ ] 591 Tag Validator 
+- [ ] 370 Range Addition 
+- [x] [414. Third Maximum Number](https://gist.github.com/BiruLyu/ded22313e9cd99c2302c2e06d107f562) 
+- [x] [442. Find All Duplicates in an Array](https://gist.github.com/BiruLyu/139d6547f6d33ccb14b29b26f603d9e6) 
+- [x] [485. Max Consecutive Ones](https://gist.github.com/BiruLyu/075deaa7ab1c4e4e7d26692d639410fd) 
+- [x] [495. Teemo Attacking](https://gist.github.com/BiruLyu/fe265f0da100bf35e10dfa8e4de90794)
+
+# Array 
+- [ ] 531 Lonely Pixel I 
+- [ ] 532 K-diff Pairs in an Array 
+- [ ] 533 Lonely Pixel II 
+- [ ] 548 Split Array with Equal Sum 
+- [ ] 560 Subarray Sum Equals K
+- [ ] 561 Array Partition I 
+- [ ] 562 Longest Line of Consecutive One in Matrix 
+- [ ] 565 Array Nesting
+- [x] [566. Reshape the Matrix](https://gist.github.com/BiruLyu/ef50f358e0aed6e77bc8ef015f343bc2) 
+- [x] [581. Shortest Unsorted Continuous Subarray](https://gist.github.com/BiruLyu/336dec74643e3317591c31dc85cb1f6c)
+
