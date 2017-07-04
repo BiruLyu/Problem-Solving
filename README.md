@@ -532,7 +532,7 @@ String
 - [ ] 163 Missing Ranges
 - [ ] 189 Rotate Array
 - [ ] 209 Minimum Size Subarray Sum 
-- [ ] 228 Summary Ranges 
+- [x] [228. Summary Ranges](https://gist.github.com/BiruLyu/3b291e7802e61dd6a5b0b4fcc09591ca)
 - [x] [229. Majority Element II](https://gist.github.com/BiruLyu/acfb0c70279ad5d76f08ff477926c4c1) 
 - [ ] 238 Product of Array Except Self 
 - [ ] 243 Shortest Word Distance 
@@ -553,7 +553,8 @@ String
 - [x] [485. Max Consecutive Ones](https://gist.github.com/BiruLyu/075deaa7ab1c4e4e7d26692d639410fd) 
 - [x] [495. Teemo Attacking](https://gist.github.com/BiruLyu/fe265f0da100bf35e10dfa8e4de90794)
 
-# Array 
+2017.7.1
+#Array  
 - [ ] 531 Lonely Pixel I 
 - [ ] 532 K-diff Pairs in an Array 
 - [ ] 533 Lonely Pixel II 
@@ -565,3 +566,28 @@ String
 - [x] [566. Reshape the Matrix](https://gist.github.com/BiruLyu/ef50f358e0aed6e77bc8ef015f343bc2) 
 - [x] [581. Shortest Unsorted Continuous Subarray](https://gist.github.com/BiruLyu/336dec74643e3317591c31dc85cb1f6c)
 
+2017.7.2
+#Tree 
+- [ ] 110 Balanced Binary Tree
+- [ ] 111 Minimum Depth of Binary Tree
+- [ ] 226 Invert Binary Tree 
+- [ ] 297 Serialize and Deserialize Binary Tree 
+- [ ] 366 Find Leaves of Binary Tree
+- [ ] 404 Sum of Left Leaves 
+- [ ] 437 Path Sum III
+- [ ] 449 Serialize and Deserialize BST 
+- [x] [513. Find Bottom Left Tree Value](https://gist.github.com/BiruLyu/c7564b6e66e793679ab736d45babe2dd) 
+- [x] [515. Find Largest Value in Each Tree Row](https://gist.github.com/BiruLyu/ae6f1830277418bb902670b46c094fc3)
+
+2017.7.3
+#Tree 
+- [ ] 536 Construct Binary Tree from String 
+- [ ] 538 Convert BST to Greater Tree
+- [ ] 543 Diameter of Binary Tree 
+- [ ] 545 Boundary of Binary Tree 
+- [ ] 549 Binary Tree Longest Consecutive Sequence II 
+- [ ] 563 Binary Tree Tilt
+- [ ] 572 Subtree of Another Tree 
+- [ ] 606 Construct String from Binary Tree
+- [x] [617. Merge Two Binary Trees](https://gist.github.com/BiruLyu/38c3cf9895aef1749855d63e80c7c894)
+- [x] [623. Add One Row to Tree](https://gist.github.com/BiruLyu/ef40c3376bae9025c9a8a4f6356eba39)
