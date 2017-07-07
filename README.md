@@ -555,27 +555,27 @@ String
 
 2017.7.1
 #Array  
-- [ ] 531 Lonely Pixel I 
-- [ ] 532 K-diff Pairs in an Array 
-- [ ] 533 Lonely Pixel II 
-- [ ] 548 Split Array with Equal Sum 
-- [ ] 560 Subarray Sum Equals K
-- [ ] 561 Array Partition I 
-- [ ] 562 Longest Line of Consecutive One in Matrix 
-- [ ] 565 Array Nesting
+- [x] [531. Lonely Pixel I](https://gist.github.com/BiruLyu/a783a5e451deab1d398eefbd67b7a364)
+- [x] [532. K-diff Pairs in an Array](https://gist.github.com/BiruLyu/af95e48d65da720c2738e0bc89054e98) 
+- [x] [533. Lonely Pixel II](https://gist.github.com/BiruLyu/d47c71edbf5a7e631a17289da6f9089c) 
+- [x] [548. Split Array with Equal Sum](https://gist.github.com/BiruLyu/fa25c0558a7e2e7e2712275a6af16e5e) 
+- [x] [560. Subarray Sum Equals K](https://gist.github.com/BiruLyu/279ecf1d3ef5d26e880d481b4db33279)
+- [x] [561. Array Partition I](https://gist.github.com/BiruLyu/f944d64d9845d5ab7e47edbb26573a63) 
+- [x] [562. Longest Line of Consecutive One in Matrix](https://gist.github.com/BiruLyu/3923151582d3253da218648a90312784) 
+- [x] [565. Array Nesting](https://gist.github.com/BiruLyu/809703ddac92b50911dc4ba8b797a4ac)
 - [x] [566. Reshape the Matrix](https://gist.github.com/BiruLyu/ef50f358e0aed6e77bc8ef015f343bc2) 
 - [x] [581. Shortest Unsorted Continuous Subarray](https://gist.github.com/BiruLyu/336dec74643e3317591c31dc85cb1f6c)
 
 2017.7.2
 #Tree 
-- [ ] 110 Balanced Binary Tree
-- [ ] 111 Minimum Depth of Binary Tree
-- [ ] 226 Invert Binary Tree 
-- [ ] 297 Serialize and Deserialize Binary Tree 
-- [ ] 366 Find Leaves of Binary Tree
-- [ ] 404 Sum of Left Leaves 
-- [ ] 437 Path Sum III
-- [ ] 449 Serialize and Deserialize BST 
+- [x] 110 Balanced Binary Tree
+- [x] 111 Minimum Depth of Binary Tree
+- [x] [226. Invert Binary Tree](https://gist.github.com/BiruLyu/deacb0acf34cf42976d79e8ac934af66) 
+- [x] 297 Serialize and Deserialize Binary Tree 
+- [x] [366. Find Leaves of Binary Tree](https://gist.github.com/BiruLyu/70307277f0edeb7b5aad1ed590f4764d)
+- [x] [404. Sum of Left Leaves](https://gist.github.com/BiruLyu/6d67174b0051eec5b35135a34493b831) 
+- [x] [437. Path Sum III](https://gist.github.com/BiruLyu/cfb4f63eb1d81a17ded1df6833a6dcbd)
+- [x] 449 Serialize and Deserialize BST 
 - [x] [513. Find Bottom Left Tree Value](https://gist.github.com/BiruLyu/c7564b6e66e793679ab736d45babe2dd) 
 - [x] [515. Find Largest Value in Each Tree Row](https://gist.github.com/BiruLyu/ae6f1830277418bb902670b46c094fc3)
 
@@ -591,3 +591,42 @@ String
 - [ ] 606 Construct String from Binary Tree
 - [x] [617. Merge Two Binary Trees](https://gist.github.com/BiruLyu/38c3cf9895aef1749855d63e80c7c894)
 - [x] [623. Add One Row to Tree](https://gist.github.com/BiruLyu/ef40c3376bae9025c9a8a4f6356eba39)
+
+2017.7.5
+#DP
+- [ ] 198 House Robber
+- [ ] 213 House Robber II 
+- [ ] 221 Maximal Square 
+- [ ] 256 Paint House 
+- [ ] 265 Paint House II
+- [x] [276. Paint Fence](https://gist.github.com/BiruLyu/cd373058e02b0cab765c88a0c650e7bf)
+- [x] [279. Perfect Squares](https://gist.github.com/BiruLyu/037adcd9bdbeeee11a86ed0e0aaf1e0c) 
+- [x] [309. Best Time to Buy and Sell Stock with Cooldown](https://gist.github.com/BiruLyu/2b63cd3935bdc1a02c70823734812f32)
+- [x] [322. Coin Change](https://gist.github.com/BiruLyu/7a543855c48eb336ae0d9e73fe29f9ce) 
+- [x] [338. Counting Bits](https://gist.github.com/BiruLyu/a52d0bfb64020e6b1917cee88930c970)
+
+2017.7.6
+#DP 2
+- [ ] 343 Integer Break
+- [ ] 351 Android Unlock Patterns
+- [ ] 357 Count Numbers with Unique Digits
+- [ ] 361 Bomb Enemy 
+- [ ] 368 Largest Divisible Subset 
+- [ ] 375 Guess Number Higher or Lower II
+- [ ] 377 Combination Sum IV 
+- [ ] 403 Frog Jump 
+- [x] [413. Arithmetic Slices](https://gist.github.com/BiruLyu/0dbb54d541de088f33f6b18eadf6081b) 
+- [x] 416 Partition Equal Subset Sum 
+
+2017.7.7
+#Dp 3
+- [ ] 418 Sentence Screen Fitting 
+- [ ] 446 Arithmetic Slices II - Subsequence 
+- [ ] 464 Can I Win 
+- [ ] 466 Count The Repetitions 
+- [ ] 467 Unique Substrings in Wraparound String 
+- [ ] 471 Encode String with Shortest Length
+- [ ] 474 Ones and Zeroes
+- [ ] 486 Predict the Winner 
+- [ ] 552 Student Attendance Record II 
+- [ ] 321 Create Maximum Number 
