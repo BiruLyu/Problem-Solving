@@ -581,24 +581,24 @@ String
 
 2017.7.3
 #Tree 
-- [ ] 536 Construct Binary Tree from String 
-- [ ] 538 Convert BST to Greater Tree
-- [ ] 543 Diameter of Binary Tree 
+- [x] [536. Construct Binary Tree from String](https://gist.github.com/BiruLyu/225715f5ae24f1bc56261c57e808d241)
+- [x] [538. Convert BST to Greater Tree](https://gist.github.com/BiruLyu/4f1b13be8368231296727d0234b356f1)
+- [x] [543. Diameter of Binary Tree](https://gist.github.com/BiruLyu/ad119205d80bc69ba1b26306a7261c67) 
 - [ ] 545 Boundary of Binary Tree 
 - [ ] 549 Binary Tree Longest Consecutive Sequence II 
-- [ ] 563 Binary Tree Tilt
+- [x] [563. Binary Tree Tilt](https://gist.github.com/BiruLyu/58c432a9331ff929d1f594605ff2d29f)
 - [ ] 572 Subtree of Another Tree 
-- [ ] 606 Construct String from Binary Tree
+- [x] [606. Construct String from Binary Tree](https://gist.github.com/BiruLyu/9d27fb337d7336cb3d4aa07f0238f9bb)
 - [x] [617. Merge Two Binary Trees](https://gist.github.com/BiruLyu/38c3cf9895aef1749855d63e80c7c894)
 - [x] [623. Add One Row to Tree](https://gist.github.com/BiruLyu/ef40c3376bae9025c9a8a4f6356eba39)
 
 2017.7.5
 #DP
-- [ ] 198 House Robber
-- [ ] 213 House Robber II 
-- [ ] 221 Maximal Square 
-- [ ] 256 Paint House 
-- [ ] 265 Paint House II
+- [x] [198. House Robber](https://gist.github.com/BiruLyu/36baeeb6f02b5036e3e68f39e9d5fe3d)
+- [x] [213. House Robber II](https://gist.github.com/BiruLyu/d0d25e4f70043ceeece4f573eab8ee65) 
+- [x] [221. Maximal Square](https://gist.github.com/BiruLyu/4b76a6406178e62690788fabbab5b1f9) 
+- [x] [256. Paint House](https://gist.github.com/BiruLyu/5dfe9388dc1fd1beea28e243c80c4318) 
+- [x] [265. Paint House II](https://gist.github.com/BiruLyu/40d9a9653b60e3d7f402ae7ca0012bd1)
 - [x] [276. Paint Fence](https://gist.github.com/BiruLyu/cd373058e02b0cab765c88a0c650e7bf)
 - [x] [279. Perfect Squares](https://gist.github.com/BiruLyu/037adcd9bdbeeee11a86ed0e0aaf1e0c) 
 - [x] [309. Best Time to Buy and Sell Stock with Cooldown](https://gist.github.com/BiruLyu/2b63cd3935bdc1a02c70823734812f32)
@@ -607,14 +607,14 @@ String
 
 2017.7.6
 #DP 2
-- [ ] 343 Integer Break
+- [x] [343. Integer Break](https://gist.github.com/BiruLyu/a225fcd26c56563fdb664a271b6d0eb6)
 - [ ] 351 Android Unlock Patterns
-- [ ] 357 Count Numbers with Unique Digits
-- [ ] 361 Bomb Enemy 
+- [x] [357. Count Numbers with Unique Digits](https://gist.github.com/BiruLyu/3da9015b6f4d3e5e644be15e8ab69772)
+- [x] [361. Bomb Enemy](https://gist.github.com/BiruLyu/b64ef456b04693d1c78c9715b4701f95) 
 - [ ] 368 Largest Divisible Subset 
 - [ ] 375 Guess Number Higher or Lower II
-- [ ] 377 Combination Sum IV 
-- [ ] 403 Frog Jump 
+- [x] [377. Combination Sum IV](https://gist.github.com/BiruLyu/66e866ca0eb94f9460985fd45b2ab089) 
+- [x] [403. Frog Jump](https://gist.github.com/BiruLyu/9d871ad2fcbdc6fbfe430a03d6b87f2f)
 - [x] [413. Arithmetic Slices](https://gist.github.com/BiruLyu/0dbb54d541de088f33f6b18eadf6081b) 
 - [x] 416 Partition Equal Subset Sum 
 
@@ -628,5 +628,25 @@ String
 - [ ] 471 Encode String with Shortest Length
 - [ ] 474 Ones and Zeroes
 - [ ] 486 Predict the Winner 
-- [ ] 552 Student Attendance Record II 
-- [ ] 321 Create Maximum Number 
+- [x] [552. Student Attendance Record II](https://gist.github.com/BiruLyu/5a088e0cd9409f543effc249edd28568) 
+- [x] [321. Create Maximum Number](https://gist.github.com/BiruLyu/e6466bb6c61fe059282d0b30d1779148) 
+
+2017.7.8
+#BFS #DFS #backtracking 
+- [ ] 490 The Maze 
+- [ ] 499 The Maze III 
+- [ ] 505 The Maze II 
+- [ ] 473 Matchsticks to Square 
+- [ ] 488 Zuma Game 
+- [ ] 491 Increasing Subsequences 
+- [ ] 267 Palindrome Permutation II 
+- [ ] 291 Word Pattern II 
+- [x] [320. Generalized Abbreviation](https://gist.github.com/BiruLyu/caaa27667cceff718b8f44b8d3b4a138)
+- [x] [526. Beautiful Arrangement](https://gist.github.com/BiruLyu/9b1fbf12072921f1a102ae7dd5c0eaf3)
+
+2017.7.10
+#Duplicate 
+- [x] [82. Remove Duplicates from Sorted List II](https://gist.github.com/BiruLyu/c44547dace8ee3aac33a6310fcc7dd59)
+- [x] [83. Remove Duplicates from Sorted List](https://gist.github.com/BiruLyu/74c76a3bcd5f4f43081782616777dbfb)
+- [ ] 220
+- [x] [609. Find Duplicate File in System](https://gist.github.com/BiruLyu/614c6b36399b72f5c339476e4e44b758)
