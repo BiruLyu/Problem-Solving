@@ -648,5 +648,55 @@ String
 #Duplicate 
 - [x] [82. Remove Duplicates from Sorted List II](https://gist.github.com/BiruLyu/c44547dace8ee3aac33a6310fcc7dd59)
 - [x] [83. Remove Duplicates from Sorted List](https://gist.github.com/BiruLyu/74c76a3bcd5f4f43081782616777dbfb)
-- [ ] 220
+- [x] [220. Contains Duplicate III](https://gist.github.com/BiruLyu/d9c6e14ec7194c7e8c4403269c1ae939)
 - [x] [609. Find Duplicate File in System](https://gist.github.com/BiruLyu/614c6b36399b72f5c339476e4e44b758)
+
+2017.7.11
+#Valid 
+- [x] [20. Valid Parentheses](https://gist.github.com/BiruLyu/ac6924a0416bbb9aee6f456a94430f61)
+- [x] [32. Longest Valid Parentheses](https://gist.github.com/BiruLyu/caab24756a2832d4794d01e379afd518)
+- [x] 36 Valid Sudoku 
+- [x] 65 Valid Number 
+- [x] [98. Validate Binary Search Tree](https://gist.github.com/BiruLyu/b26408e3ac4364c8bfdf21022c813f95)
+- [x] [125. Valid Palindrome](https://gist.github.com/BiruLyu/97dbcc09acb62acb47b3bd5272a6c2e4)
+- [x] 242 Valid Anagram 
+- [x] 261 Graph Valid Tree
+- [x] 367 Valid Perfect Square
+- [x] 408 Valid Word Abbreviation
+- [x] [422. Valid Word Square](https://gist.github.com/BiruLyu/77400d46215ed666d64f42ddb07a7d2d) 
+- [x] 468 Validate IP Address
+- [x] 593 Valid Square 
+- [x] [611. Valid Triangle Number](https://gist.github.com/BiruLyu/9cebba315f9050cb87f43dddb76a1ecf)
+
+2017.7.12
+#Permutation 
+- [x] [31. Next Permutation](https://gist.github.com/BiruLyu/a6e7e6133db42938dfd2c3512767a89d) 
+- [x] 46 Permutations 
+- [x] 47 Permutations II
+- [x] [60. Permutation Sequence](https://gist.github.com/BiruLyu/6fccfcb21ee76878e3029276b22bf309) 
+- [x] 266 Palindrome Permutation
+- [x] [267. Palindrome Permutation II](https://gist.github.com/BiruLyu/b37f86d7a369d7c0a96005ee0ae83c56) 
+- [x] [484. Find Permutation](https://gist.github.com/BiruLyu/28e18d942ff3c04cbf589b9e55d22ca7)
+- [x] [567. Permutation in String](https://gist.github.com/BiruLyu/67a69ee82845b9871dcc9c8af8aaf14d)
+
+2017.7.13
+#TwoPointer #Medium 
+- [ ] 3 Longest Substring Without Repeating Characters
+- [ ] 11 Container With Most Water 
+- [x] [15. 3Sum](https://gist.github.com/BiruLyu/068b8c4373683d13a282be747a3bc8d1)
+- [x] [16. 3Sum Closest](https://gist.github.com/BiruLyu/6e354c98c368e2b9439d8cf89f2a23cd)
+- [x] [18. 4Sum](https://gist.github.com/BiruLyu/1ff5459406c70612002c7d80e0e21c98)
+- [ ] 19 Remove Nth Node From End of List
+- [x] 26 Remove Duplicates from Sorted Array 
+- [ ] 61 Rotate List 
+- [ ] 75 Sort Colors 
+- [ ] 80 Remove Duplicates from Sorted Array II 
+- [ ] 86 Partition List 
+- [ ] 142 Linked List Cycle II 
+- [ ] 209 Minimum Size Subarray Sum 
+- [ ] 259 3Sum Smaller 
+- [ ] 287 Find the Duplicate Number 
+- [x] [360. Sort Transformed Array](https://gist.github.com/BiruLyu/f8739d953cbd2a60bb77274248cd6c4e)
+- [x] [487. Max Consecutive Ones II](https://gist.github.com/BiruLyu/a0e0cd6c9d3619da696fbbcc1c1a1227)
+- [x] [524. Longest Word in Dictionary through Deleting](https://gist.github.com/BiruLyu/d7004c6bc45a38a132cf723cde966076)
+- [x] 567 Permutation in String 
