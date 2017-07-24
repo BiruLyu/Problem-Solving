@@ -700,3 +700,76 @@ String
 - [x] [487. Max Consecutive Ones II](https://gist.github.com/BiruLyu/a0e0cd6c9d3619da696fbbcc1c1a1227)
 - [x] [524. Longest Word in Dictionary through Deleting](https://gist.github.com/BiruLyu/d7004c6bc45a38a132cf723cde966076)
 - [x] 567 Permutation in String 
+
+
+567 Permutation in String 
+2017.7.14
+#TwoPointer #Easy 
+- [x] 26 Remove Duplicates from Sorted Array 
+- [x] 27 Remove Element 
+- [x] 28 Implement strStr()
+- [x] 88 Merge Sorted Array 
+- [ ] 141 Linked List Cycle
+- [x] 167 Two Sum II - Input array is sorted
+- [ ] 234 Palindrome Linked List 
+- [ ] 283 Move Zeroes
+- [ ] 344 Reverse String
+- [ ] 345 Reverse Vowels of a String 
+- [ ] 349 Intersection of Two Arrays 
+- [ ] 350 Intersection of Two Arrays II 
+- [x] 532 K-diff Pairs in an Array
+2017.7.15
+#TwoPointer #Hard 
+- [x] 30 Substring with Concatenation of All Words 
+- [x] [42. Trapping Rain Water](https://gist.github.com/BiruLyu/2c9f9c6270f7730c6c2a96389c5b9137) 
+- [x] 76 Minimum Window Substring 
+- [x] 159 Longest Substring with At Most Two Distinct Characters 
+- [x] [632. Smallest Range](https://gist.github.com/BiruLyu/722353dd91b20131b692512bf84d0e72)
+
+2017.7.15
+#TwoPointer #Hard 
+- [ ] 30 Substring with Concatenation of All Words 
+- [ ] 42 Trapping Rain Water 
+- [ ] 76 Minimum Window Substring 
+- [ ] 159 Longest Substring with At Most Two Distinct Characters 
+- [ ] 632 Smallest Range
+2017.7.17
+#DivideAndConquer 
+- [x] 4 Median of Two Sorted Arrays 
+- [x] 23 Merge k Sorted Lists 
+- [x] 53 Maximum Subarray 
+- [x] 169 Majority Element 
+- [ ] 215 Kth Largest Element in an Array 
+- [ ] 218 The Skyline Problem 
+- [ ] 240 Search a 2D Matrix II 
+- [ ] 241 Different Ways to Add Parentheses 
+- [x] 282 Expression Add Operators 
+- [x] 312 Burst Balloons 
+- [ ] 315 Count of Smaller Numbers After Self 
+- [x] 327 Count of Range Sum 
+- [ ] 493 Reverse Pairs 
+- [ ] 514 Freedom Trail 
+
+2017.7.18
+#Greedy 
+- [ ] 11 Container With Most Water
+- [ ] 44 Wildcard Matching 
+- [ ] 45 Jump Game II 
+- [ ] 55 Jump Game 
+- [ ] 122 Best Time to Buy and Sell Stock II
+- [ ] 134 Gas Station 
+- [ ] 135 Candy 
+- [ ] 253 Meeting Rooms II 
+- [ ] 316 Remove Duplicate Letters
+- [ ] 321 Create Maximum Number 
+- [ ] 330 Patching Array 
+- [ ] 358 Rearrange String k Distance Apart
+- [ ] 376 Wiggle Subsequence 
+- [ ] 392 Is Subsequence 
+- [ ] 402 Remove K Digits
+- [x] 406 Queue Reconstruction by Height 
+- [x] [435. Non-overlapping Intervals](https://gist.github.com/BiruLyu/c77a56f8bf0bc733ea5fd2d9eb3dc542)
+- [x] 452 Minimum Number of Arrows to Burst Balloons 
+- [x] 455 Assign Cookies
+- [x] 502 IPO 
+
