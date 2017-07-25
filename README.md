@@ -739,16 +739,16 @@ String
 - [x] 23 Merge k Sorted Lists 
 - [x] 53 Maximum Subarray 
 - [x] 169 Majority Element 
-- [ ] 215 Kth Largest Element in an Array 
-- [ ] 218 The Skyline Problem 
+- [x] [215. Kth Largest Element in an Array](https://gist.github.com/BiruLyu/b6c96129cfe238e2979f8abe11bde11f) 
+- [x] [218. The Skyline Problem](https://gist.github.com/BiruLyu/36fdf68a661f14dd04bb583772745186) 
 - [ ] 240 Search a 2D Matrix II 
-- [ ] 241 Different Ways to Add Parentheses 
+- [x] 241 Different Ways to Add Parentheses 
 - [x] 282 Expression Add Operators 
 - [x] 312 Burst Balloons 
-- [ ] 315 Count of Smaller Numbers After Self 
-- [x] 327 Count of Range Sum 
-- [ ] 493 Reverse Pairs 
-- [ ] 514 Freedom Trail 
+- [x] [315. Count of Smaller Numbers After Self](https://gist.github.com/BiruLyu/55e938ce3431fe51158f4adf178a7fa9)
+- [x] [327. Count of Range Sum](https://gist.github.com/BiruLyu/eef2ba507e3044aaaebff0cbdf161500)
+- [x] [493. Reverse Pairs](https://gist.github.com/BiruLyu/ce6303022a6f9e25b0dde8170389a8d1) 
+- [x] 514 Freedom Trail 
 
 2017.7.18
 #Greedy 
