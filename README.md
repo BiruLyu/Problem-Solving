@@ -918,7 +918,7 @@ String
 #Design 
 - [x] 146 LRU Cache 
 - [x] [155. Min Stack](https://gist.github.com/BiruLyu/79a9e5e2c77b4940277c28dab737cc62)
-- [ ] 170 Two Sum III - Data structure design
+- [x] 170 Two Sum III - Data structure design
 - [ ] 173 Binary Search Tree Iterator 
 - [ ] 208 Implement Trie (Prefix Tree) 
 - [ ] 211 Add and Search Word - Data structure design 
