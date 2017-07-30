@@ -22,14 +22,14 @@ Space Complexity     | O(n)    | O(n)  | **O(1)**|
 
 2017.5.08
 贪婪的开始：Greedy
-- [ ] 11 Container With Most Water
-- [ ] 42 Trapping Rain Water
+- [x] 11 Container With Most Water
+- [x] 42 Trapping Rain Water
 - [ ] 44 Wildcard Matching
-- [ ] 125 Valid Palindrome
-- [ ] 55 Jump Game
-It's like Tower Defence Game, calculate your attack range 
-- [ ] 45 Jump Game II
-- [ ] 122 Best Time to Buy and Sell Stock II
+- [x] 125 Valid Palindrome
+- [x] 55 Jump Game
+      It's like Tower Defence Game, calculate your attack range 
+- [x] 45 Jump Game II
+- [x] [122. Best Time to Buy and Sell Stock II](https://gist.github.com/BiruLyu/2f71e6fca14a27827c6391b5a8abc36d)
 - [ ] 134 Gas Station
 
 2017.5.09
@@ -45,11 +45,11 @@ It's like Tower Defence Game, calculate your attack range
 
 2017.5.10
 排一排：Sort
-- [ ] 56 Merge Intervals
+- [x] 56 Merge Intervals
 - [x] [57. Insert Interval](https://gist.github.com/BiruLyu/932a22d182234a43a3fdab0017c551b9)
-- [ ] 75 Sort Colors
-- [ ] 88 Merge Sorted Array
-- [ ] 147 Insertion Sort List
+- [x] 75 Sort Colors
+- [x] 88 Merge Sorted Array
+- [x] 147 Insertion Sort List
 - [ ] 148 Sort List
 - [ ] 164 Maximum Gap
 - [ ] 179 Largest Number
@@ -68,10 +68,10 @@ It's like Tower Defence Game, calculate your attack range
 
 2017.5.12
 让我看见你们的双手：Two pointers #Q 
-- [ ] 19 Remove Nth Node From End of List	
+- [x] [19. Remove Nth Node From End of List](https://gist.github.com/BiruLyu/5fb516d1e7a049a35bca84494f6818a2)
 - [ ] 86 Partition List	
-- [ ] 141 Linked List Cycle	
-- [ ] 142 Linked List Cycle II	
+- [x] 141 Linked List Cycle	
+- [x] [142. Linked List Cycle II](https://gist.github.com/BiruLyu/878970fb79764162b63e528c6cb1d211)	
 - [ ] 143 Reorder List	
 - [x] 167 Two Sum II - Input array is sorted	
 - [ ] 259 3Sum Smaller	
@@ -81,10 +81,10 @@ It's like Tower Defence Game, calculate your attack range
 数学之美：Math #Q 
 - [ ] [7. Reverse Integer.java](https://gist.github.com/BiruLyu/8b408123bc5f8b37dedfe3c1be81ba9d)
 - [x] [9. Palindrome Number](https://gist.github.com/BiruLyu/ff90df71cc615eda594d56bb87df8eb2)
-- [ ] 12 Integer to Roman
-- [ ] 13 Roman to Integer
+- [x] [12. Integer to Roman](https://gist.github.com/BiruLyu/7a452222d3603858a382174ba7b4b943)
+- [x] [13. Roman to Integer](https://gist.github.com/BiruLyu/bbdfc48fc429bc8daffd8a3ef6f6b9eb)
 - [ ] 29 Divide Two Integers
-- [ ] 50 Pow(x, n)
+- [x] [50. Pow(x, n)](https://gist.github.com/BiruLyu/2233dd45730f4ad7d631a79779849420)
 - [x] 60 Permutation Sequence
 - [x] 65 Valid Number
 
@@ -97,12 +97,12 @@ It's like Tower Defence Game, calculate your attack range
 - [x] [27. Remove Element.java](https://gist.github.com/BiruLyu/17547405dd4627c092b808f6ae1d5f2b)
 - [x] 31 Next Permutation #Q 
 - [ ] 41 First Missing Positive
-- [ ] 48 Rotate Image	
+- [x] [48. Rotate Image](https://gist.github.com/BiruLyu/9fda4364cd6de73d3952479e0f4aec3b)	
 
 2017.5.16
 让我们来连一连：Linked List
 - [x] [2. Add Two Numbers](https://gist.github.com/BiruLyu/e2cf1c930a6453febd1dfe6bba10e70e)
-- [ ] 21 Merge Two Sorted Lists
+- [x] [21. Merge Two Sorted Lists](https://gist.github.com/BiruLyu/e64cf90dcb05c826b8e8f90614e214d9)
 - [x] 23 Merge k Sorted Lists
 - [ ] 24 Swap Nodes in Pairs
 - [ ] 25 Reverse Nodes in k-Group
@@ -134,7 +134,7 @@ Heap
 - [ ] 295 Find Median from Data Stream
 - [ ] 313 Super Ugly Number
 - [x] 358 Rearrange String k Distance Apart
-- [x] 373 Find K Pairs with Smallest Sums
+- [x] [373. Find K Pairs with Smallest Sums](https://gist.github.com/BiruLyu/651cced25a99a03f6d0bdf190a8444f9)
 - [ ] 378 Kth Smallest Element in a Sorted Matrix
 - [ ] 407 Trapping Rain Water II
 
@@ -452,7 +452,7 @@ Dynamic Programming
 2017.6.16
 #DivideAndConquer 
 - [x] 4 Median of Two Sorted Arrays
-- [x] 23 Merge k Sorted Lists 
+- [x] [23. Merge k Sorted Lists](https://gist.github.com/BiruLyu/dbc73348f0bd344699256d8f2bb310d5)
 - [x] 53 Maximum Subarray 
 - [x] [169. Majority Element](https://gist.github.com/BiruLyu/ad78c6aa4c04d30b1cea4f02fdd246fb)
 - [ ] 215 Kth Largest Element in an Array 
@@ -780,14 +780,14 @@ String
 - [x] 27 Remove Element 
 - [x] 28 Implement strStr()
 - [x] 88 Merge Sorted Array 
-- [ ] 141 Linked List Cycle
+- [x] [141. Linked List Cycle](https://gist.github.com/BiruLyu/c8c0aa68f1b3ac99c731b1401033c36e)
 - [x] 167 Two Sum II - Input array is sorted
 - [ ] 234 Palindrome Linked List 
 - [ ] 283 Move Zeroes
-- [ ] 344 Reverse String
-- [ ] 345 Reverse Vowels of a String 
-- [ ] 349 Intersection of Two Arrays 
-- [ ] 350 Intersection of Two Arrays II 
+- [x] [344. Reverse String](https://gist.github.com/BiruLyu/df37397cbd70a502e0795652ad47f0bf)
+- [x] [345. Reverse Vowels of a String](https://gist.github.com/BiruLyu/eea38a08042a4acc56fbb9e785cb8f29)
+- [x] 349 Intersection of Two Arrays 
+- [x] [350. Intersection of Two Arrays II](https://gist.github.com/BiruLyu/456829100184cbdee6efb298d952b58c)
 - [x] 532 K-diff Pairs in an Array
 
 2017.7.15
@@ -800,11 +800,12 @@ String
 
 2017.7.15
 #TwoPointer #Hard 
-- [ ] 30 Substring with Concatenation of All Words 
-- [ ] 42 Trapping Rain Water 
-- [ ] 76 Minimum Window Substring 
-- [ ] 159 Longest Substring with At Most Two Distinct Characters 
-- [ ] 632 Smallest Range
+- [x] 30 Substring with Concatenation of All Words 
+- [x] 42 Trapping Rain Water 
+- [x] 76 Minimum Window Substring 
+- [x] 159 Longest Substring with At Most Two Distinct Characters 
+- [x] 632 Smallest Range
+
 2017.7.17
 #DivideAndConquer 
 - [x] 4 Median of Two Sorted Arrays 
@@ -825,10 +826,10 @@ String
 
 2017.7.18
 #Greedy 
-- [ ] 11 Container With Most Water
+- [x] [11. Container With Most Water](https://gist.github.com/BiruLyu/1228e2a203a6c6fee09ef74f7f24ab16)
 - [ ] 44 Wildcard Matching 
-- [ ] 45 Jump Game II 
-- [ ] 55 Jump Game 
+- [x] [45. Jump Game II](https://gist.github.com/BiruLyu/84219417e3d259240892526949dc6d64) 
+- [x] [55. Jump Game](https://gist.github.com/BiruLyu/71028bbd31ff9f7c4f424ac4349f835d) 
 - [ ] 122 Best Time to Buy and Sell Stock II
 - [ ] 134 Gas Station 
 - [x] 135 Candy 
@@ -850,84 +851,85 @@ String
 2017.7.19
 #BinarySearch 
 - [x] 33 Search in Rotated Sorted Array
-- [ ] 34 Search for a Range 
+- [x] [34. Search for a Range](https://gist.github.com/BiruLyu/fd94225bb94f4a8998a09412ed108f3e)
 - [x] 74 Search a 2D Matrix
-- [ ] 81 Search in Rotated Sorted Array II 
-- [ ] 153 Find Minimum in Rotated Sorted Array 
-- [ ] 162 Find Peak Element
-- [ ] 209 Minimum Size Subarray Sum 
-- [ ] 275 H-Index II 
+- [x] [81. Search in Rotated Sorted Array II](https://gist.github.com/BiruLyu/8162f66645ebe0cbde940b4a28b0a98f) 
+- [x] [153. Find Minimum in Rotated Sorted Array](https://gist.github.com/BiruLyu/17bfa0f5070ed87cb7947f9019b9d866)
+- [x] [162. Find Peak Element](https://gist.github.com/BiruLyu/cab500a4e314e0c4d9dd6781c00ac141)
+- [x] [209. Minimum Size Subarray Sum](https://gist.github.com/BiruLyu/610bf8daa1fe7e3970171559d163c801) 
+- [x] [275. H-Index II](https://gist.github.com/BiruLyu/4fe4b1b74acb89571bda4330ae7056a2)
 - [x] 287 Find the Duplicate Number 
 - [x] 611 Valid Triangle Number   
 
 2017.7.20
 #Sort 
-- [ ] 56 Merge Intervals 
+- [x] [56. Merge Intervals](https://gist.github.com/BiruLyu/ee1023d485f6c198ca9ae6db1726e167) 
 - [x] 57 Insert Interval
-- [ ] 75 Sort Colors 
+- [x] [75. Sort Colors](https://gist.github.com/BiruLyu/db96d971cc0942b07b87108ce9b7ad7e)
 - [x] [88. Merge Sorted Array](https://gist.github.com/BiruLyu/8d4b729f92085be540026a4033d397ad) 
-- [ ] 147 Insertion Sort List 
+- [x] [147. Insertion Sort List](https://gist.github.com/BiruLyu/3bdeb2d9c58d07acd8a777ac202813aa)
 - [x] 148 Sort List
 - [ ] 164 Maximum Gap 
-- [ ] 179 Largest Number 
+- [x] [179. Largest Number](https://gist.github.com/BiruLyu/fb65ee565a45e7931c041239639efd4a)
 - [x] 252 Meeting Rooms I 
 - [x] 253 Meeting Rooms II 
-- [ ] 274 H-Index 
-- [ ] 280 Wiggle Sort 
+- [x] [274. H-Index](https://gist.github.com/BiruLyu/677772635d13519307503f964ac12c6b)
+- [x] [280. Wiggle Sort](https://gist.github.com/BiruLyu/8bc71e57a1af74e899e774f2f1c11c1b) 
 - [ ] 296 Best Meeting Point
 - [ ] 324 Wiggle Sort II 
-- [ ] 349 Intersection of Two Arrays 
+- [x] [349. Intersection of Two Arrays](https://gist.github.com/BiruLyu/f4ffc25dae7de3222148b44571335b1f)
 - [x] 451 Sort Characters By Frequency
 - [x] 524 Longest Word in Dictionary through Deleting 
-- [ ] 527 Word Abbreviation 
+- [x] [527. Word Abbreviation](https://gist.github.com/BiruLyu/a17b0a40e01d1e13d0886f4a321ebeb0) 
 
 2017.7.21
 #BitManipulation #Medium 
 - [x] 78 Subsets 
-- [ ] 137 Single Number II 
+- [x] 137 Single Number II 
 - [x] 187 Repeated DNA Sequences 
 - [x] 201 Bitwise AND of Numbers Range
 - [x] 260 Single Number III
 
 2017.7.24
 #Design 
-- [ ] 341 Flatten Nested List Iterator 
-- [ ] 346 Moving Average from Data Stream 
+- [x] [341. Flatten Nested List Iterator]（https://gist.github.com/BiruLyu/a6f61f88c4cd3e34d08ab53c679d4bdd） 
+- [x] [346. Moving Average from Data Stream](https://gist.github.com/BiruLyu/dd9edb2b59391ba44e13d970c711f20e)
 - [x] 348 Design Tic-Tac-Toe 
-- [ ] 353 Design Snake Game
-- [ ] 359 Logger Rate Limiter
-- [ ] 362 Design Hit Counter
-- [ ] 379 Design Phone Directory 
-- [ ] 380 Insert Delete GetRandom O(1) 
-- [ ] 381 Insert Delete GetRandom O(1) - Duplicates allowed 
-- [ ] 432 All O`one Data Structure 
+- [x] [353. Design Snake Game](https://gist.github.com/BiruLyu/e4febdd553a27fe2493074cf51b79dc4)
+- [x] [359. Logger Rate Limiter](https://gist.github.com/BiruLyu/7cf351615fb1a0bedde6901f00671aea)
+- [x] 362 Design Hit Counter
+- [x] 379 Design Phone Directory 
+- [x] 380 Insert Delete GetRandom O(1) 
+- [x] 381 Insert Delete GetRandom O(1) - Duplicates allowed 
+- [x] 432 All O`one Data Structure 
 - [ ] 460 LFU Cache
 - [ ] 588 Design In-Memory File System
-- [ ] 604 Design Compressed String Iterator   New 
+- [x] [604. Design Compressed String Iterator](https://gist.github.com/BiruLyu/0afb10ab8d07ca93d219267bebb9a9b6)
 - [ ] 631 Design Excel Sum Formula
-- [ ] 318 Maximum Product of Word Lengths 
-- [ ] 320 Generalized Abbreviation 
-- [ ] 338 Counting Bits
-- [ ] 393 UTF-8 Validation 
-- [ ] 397 Integer Replacement 
-- [ ] 421 Maximum XOR of Two Numbers in an Array 
-- [ ] 462 Minimum Moves to Equal Array Elements II
-- [ ] 477 Total Hamming Distance 
+- [x] 318 Maximum Product of Word Lengths 
+- [x] 320 Generalized Abbreviation 
+- [x] 338 Counting Bits
+- [x] 393 UTF-8 Validation 
+- [x] [397. Integer Replacement](https://gist.github.com/BiruLyu/0dbb4e8dac09e96a0f396c29ab0e8deb)
+- [x] 421 Maximum XOR of Two Numbers in an Array 
+- [x] 462 Minimum Moves to Equal Array Elements II
+- [x] 477 Total Hamming Distance 
 
 2017.7.22
 #Design 
 - [x] 146 LRU Cache 
 - [x] [155. Min Stack](https://gist.github.com/BiruLyu/79a9e5e2c77b4940277c28dab737cc62)
 - [x] 170 Two Sum III - Data structure design
-- [ ] 173 Binary Search Tree Iterator 
-- [ ] 208 Implement Trie (Prefix Tree) 
-- [ ] 211 Add and Search Word - Data structure design 
-- [ ] 225 Implement Stack using Queues 
-- [ ] 232 Implement Queue using Stacks 
-- [ ] 244 Shortest Word Distance II 
-- [ ] 251 Flatten 2D Vector
-- [ ] 281 Zigzag Iterator 
-- [ ] 284 Peeking Iterator 
-- [ ] 288 Unique Word Abbreviation 
-- [ ] 295 Find Median from Data Stream 
-- [ ] 297 Serialize and Deserialize Binary Tree 
+- [x] [173. Binary Search Tree Iterator](https://gist.github.com/BiruLyu/73255135aa79ea2750d5ac174ce4987c) 
+- [x] 208 Implement Trie (Prefix Tree) 
+- [x] 211 Add and Search Word - Data structure design 
+- [x] 225 Implement Stack using Queues 
+- [x] [232. Implement Queue using Stacks](https://gist.github.com/BiruLyu/af35bfabec2169d9259a930b9e327d80)
+- [x] [243. Shortest Word Distance](https://gist.github.com/BiruLyu/c9329cf5419401201faa248b425a23b1)
+- [x] [244. Shortest Word Distance II](https://gist.github.com/BiruLyu/3ea82113c4ad875a87b333b607115e8f) 
+- [x] [251. Flatten 2D Vector](https://gist.github.com/BiruLyu/9c7f186f2d1dbe7c4700cf483cccc90a)
+- [x] [281. Zigzag Iterator](https://gist.github.com/BiruLyu/36901571d88db5b6ad7e5f7fa927351d)
+- [x] 284 Peeking Iterator 
+- [x] 288 Unique Word Abbreviation 
+- [x] [295. Find Median from Data Stream](https://gist.github.com/BiruLyu/4a11b797d8c897ccab42198f8e6474c6)
+- [x] 297 Serialize and Deserialize Binary Tree 
