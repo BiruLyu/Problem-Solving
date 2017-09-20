@@ -4,16 +4,22 @@
 * [Algorithm](algorithm-and-datastructure/algorithm.md)
   * Complexity
   * [Search](algorithm-and-datastructure/algorithm/search.md)
+    * BFS
+    * DFS
   * [Sort](algorithm-and-datastructure/algorithm/sort.md)
-    * Bubble Sort
+    * [Bubble Sort](algorithm-and-datastructure/algorithm/sort/bubble-sort.md)
     * Insertion Sort
     * Bucket Sort
     * Counting Sort
     * Merge Sort
     * Binary tree sort
-    * Radix sort
-  * Graph Theory 
+    * [Radix sort](algorithm-and-datastructure/algorithm/sort/radix-sort.md)
+  * [Graph Theory ](algorithm-and-datastructure/algorithm/graph-theory.md)
     * Huffman Coding
+    * Tree traversal 
+    * Shortest path problem
+    * Minimum spanning tree
+    * Network flow
   * Dynamic Programming
     * [0-1 Knapsack Problem](0-1-knapsack-problem.md)
 * [Data Structure](data-structure.md)
@@ -24,4 +30,5 @@
   * Linked List
   * Tree
   * Graph
+* Database
 
