@@ -24,6 +24,8 @@
 
 ![](https://ws1.sinaimg.cn/large/006tNc79gy1fjqxif8gwkj30sy0lotb2.jpg)
 
+https://gist.github.com/BiruLyu/b7ef86cee3a17427dd4f24e064f9d271
+
 # Related Topics
 
 [Fractional Knapsack Problem](algorithm/greedy/fractional-knapsack-problem.md)
