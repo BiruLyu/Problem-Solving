@@ -20,7 +20,8 @@
     * Shortest path problem
     * Minimum spanning tree
     * Network flow
-  * Greedy
+  * [Greedy](algorithm-and-datastructure/algorithm/greedy.md)
+    * [Fractional Knapsack Problem](algorithm-and-datastructure/algorithm/greedy/fractional-knapsack-problem.md)
   * Dynamic Programming
     * [0-1 Knapsack Problem](0-1-knapsack-problem.md)
 * [Data Structure](data-structure.md)
