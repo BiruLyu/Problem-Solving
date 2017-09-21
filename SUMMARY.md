@@ -18,8 +18,8 @@
     * Huffman Coding
     * [Tree traversal ](algorithm/graph-theory/tree-traversal.md)
       * [Breadth First Search](algorithm/graph-theory/breadth-first-search.md)
-      * Depth First Search
-        * Pre-order
+      * [Depth First Search](algorithm/graph-theory/depth-first-search.md)
+        * [Pre-order](algorithm/graph-theory/pre-order.md)
         * In-order
         * Post-order
     * Shortest path problem
