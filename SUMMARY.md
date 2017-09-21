@@ -20,6 +20,7 @@
     * Shortest path problem
     * Minimum spanning tree
     * Network flow
+  * Greedy
   * Dynamic Programming
     * [0-1 Knapsack Problem](0-1-knapsack-problem.md)
 * [Data Structure](data-structure.md)
