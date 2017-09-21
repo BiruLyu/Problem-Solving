@@ -37,7 +37,7 @@
   * Queue
   * Linked List
   * Tree
-    * BIT \(Binary Index Tree\)
+    * [BIT \(Binary Index Tree\)](data-structure/bit-binary-index-tree.md)
   * Graph
 * Database
 
