@@ -23,8 +23,8 @@
   * [Greedy](algorithm/greedy.md)
     * [Fractional Knapsack Problem](algorithm/greedy/fractional-knapsack-problem.md)
   * [Dynamic Programming](algorithm/dynamic-programming.md)
-    * [0-1 Knapsack Problem](0-1-knapsack-problem.md)
-    * [Coin Change](coin-change.md)
+    * [0-1 Knapsack Problem](algorithm/dynamic-programming/0-1-knapsack-problem.md)
+    * [Coin Change](algorithm/dynamic-programming/coin-change.md)
 * [Data Structure](data-structure.md)
   * Array
   * Heap
