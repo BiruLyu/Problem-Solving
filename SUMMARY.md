@@ -24,6 +24,7 @@
     * [Fractional Knapsack Problem](algorithm-and-datastructure/algorithm/greedy/fractional-knapsack-problem.md)
   * Dynamic Programming
     * [0-1 Knapsack Problem](0-1-knapsack-problem.md)
+    * [Coin Change](coin-change.md)
 * [Data Structure](data-structure.md)
   * Array
   * Heap
