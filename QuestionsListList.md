@@ -1,18 +1,7 @@
 # Problem-Solving
 
 # <a name = "Trees"></a> Trees
-  
-> ## Binary Tree Traversals
-[Reference Linked 1](http://www.wengweitao.com/er-cha-shu-de-san-chong-bian-li-fang-shi-di-gui-fei-di-gui-he-morrisbian-li.html)
-:
-
-Option name         | recursive           | Stack     | Morris|
---------------------|------------------|-----------------------|---|
-Preorder (Root, Left, Right) |    |    |
-Inorder  (Left, Root, Right) |    |    |
-Postorder(Left, Right, Root) |    |    |
-Time Complexity      | O(n)  | O(n)    | O(n) |
-Space Complexity     | O(n)    | O(n)  | **O(1)**|
+ 
 
 > ## Binary Index Tree 
 [Reference Linked 1](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)

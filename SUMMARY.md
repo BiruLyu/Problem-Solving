@@ -16,7 +16,12 @@
     * [Radix sort](algorithm/sort/radix-sort.md)
   * [Graph Theory ](algorithm/graph-theory.md)
     * Huffman Coding
-    * Tree traversal 
+    * [Tree traversal ](algorithm/graph-theory/tree-traversal.md)
+      * [Breadth First Search](algorithm/graph-theory/breadth-first-search.md)
+      * Depth First Search
+        * Pre-order
+        * In-order
+        * Post-order
     * Shortest path problem
     * Minimum spanning tree
     * Network flow
@@ -32,6 +37,7 @@
   * Queue
   * Linked List
   * Tree
+    * BIT \(Binary Index Tree\)
   * Graph
 * Database
 
