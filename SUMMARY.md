@@ -22,7 +22,7 @@
     * Network flow
   * [Greedy](algorithm/greedy.md)
     * [Fractional Knapsack Problem](algorithm/greedy/fractional-knapsack-problem.md)
-  * Dynamic Programming
+  * [Dynamic Programming](algorithm/dynamic-programming.md)
     * [0-1 Knapsack Problem](0-1-knapsack-problem.md)
     * [Coin Change](coin-change.md)
 * [Data Structure](data-structure.md)
