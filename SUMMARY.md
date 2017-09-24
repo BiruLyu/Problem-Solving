@@ -4,12 +4,12 @@
 
 ## Algorithm and Data Structure
 
-* [Algorithm](algorithm.md)
+* [Algorithm](algorithm/README.md)
   * Complexity
-  * [Search](algorithm/search.md)
+  * [Search](algorithm/search/README.md)
     * BFS
     * DFS
-  * [Sort](algorithm/sort.md)
+  * [Sort](algorithm/sort/README.md)
     * [Bubble Sort](algorithm/sort/bubble-sort.md)
     * Insertion Sort
     * Bucket Sort
@@ -17,7 +17,7 @@
     * Merge Sort
     * Binary tree sort
     * [Radix sort](algorithm/sort/radix-sort.md)
-  * [Graph Theory ](algorithm/graph-theory.md)
+  * [Graph Theory ](algorithm/graph-theory/README.md)
     * Huffman Coding
     * [Tree traversal ](algorithm/graph-theory/tree-traversal.md)
       * [Breadth First Search](algorithm/graph-theory/breadth-first-search.md)
@@ -28,9 +28,9 @@
     * Shortest path problem
     * Minimum spanning tree
     * Network flow
-  * [Greedy](algorithm/greedy.md)
+  * [Greedy](algorithm/greedy/README.md)
     * [Fractional Knapsack Problem](algorithm/greedy/fractional-knapsack-problem.md)
-  * [Dynamic Programming](algorithm/dynamic-programming.md)
+  * [Dynamic Programming](algorithm/dynamic-programming/README.md)
     * [0-1 Knapsack Problem](algorithm/dynamic-programming/0-1-knapsack-problem.md)
     * [Coin Change](algorithm/dynamic-programming/coin-change.md)
 * [Data Structure](data-structure.md)
@@ -49,7 +49,7 @@
 
 ## Basic Skills
 
-* [Git Complete](git-complete.md)
+* [Git Complete](git-complete/README.md)
   * [Git](git-complete/git.md)
   * [Gitbook](git-complete/gitbook.md)
 
