@@ -1,6 +1,4 @@
-# 
-
-### Branching and Merging
+# Branching and Merging
 
 To create a branch and switch to it at the same time, you can run the `git checkout` command with the `-b` switch:
 
@@ -43,7 +41,7 @@ To https://github.com/pbehghader/atlas-jira
 Branch birulyu set up to track remote branch birulyu from origin.
 ```
 
-###  How to delete a commit?
+#  How to delete a commit?
 
 
 - clone the repo to your machine
@@ -69,7 +67,7 @@ git push -f origin master
 - check github, it should be updated.
 
 
-### How to move repository from Bitbucket to Github?
+# How to move repository from Bitbucket to Github?
 
 Short notes on what we did to migrate from BitBucket to GitHub, mainly not to lose this information.
 
