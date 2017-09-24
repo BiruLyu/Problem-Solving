@@ -1,0 +1,944 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Fractional Knapsack Problem · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-anchors/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-anchor-navigation-ex/style/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-anchor-navigation/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="../dynamic-programming.html" />
+    
+    
+    <link rel="prev" href="../greedy.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../../">
+            
+                <a href="../../">
+            
+                    
+                        <b>1.1.</b>
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../../algorithm.md">
+            
+                <span>
+            
+                    
+                        <b>1.2.</b>
+                    
+                    Algorithm
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" >
+            
+                <span>
+            
+                    
+                        <b>1.2.1.</b>
+                    
+                    Complexity
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" data-path="../search.html">
+            
+                <a href="../search.html">
+            
+                    
+                        <b>1.2.2.</b>
+                    
+                    Search
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.2.1" >
+            
+                <span>
+            
+                    
+                        <b>1.2.2.1.</b>
+                    
+                    BFS
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2.2" >
+            
+                <span>
+            
+                    
+                        <b>1.2.2.2.</b>
+                    
+                    DFS
+            
+                </span>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3" data-path="../sort.html">
+            
+                <a href="../sort.html">
+            
+                    
+                        <b>1.2.3.</b>
+                    
+                    Sort
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.3.1" data-path="../sort/bubble-sort.html">
+            
+                <a href="../sort/bubble-sort.html">
+            
+                    
+                        <b>1.2.3.1.</b>
+                    
+                    Bubble Sort
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3.2" >
+            
+                <span>
+            
+                    
+                        <b>1.2.3.2.</b>
+                    
+                    Insertion Sort
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3.3" >
+            
+                <span>
+            
+                    
+                        <b>1.2.3.3.</b>
+                    
+                    Bucket Sort
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3.4" >
+            
+                <span>
+            
+                    
+                        <b>1.2.3.4.</b>
+                    
+                    Counting Sort
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3.5" >
+            
+                <span>
+            
+                    
+                        <b>1.2.3.5.</b>
+                    
+                    Merge Sort
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3.6" >
+            
+                <span>
+            
+                    
+                        <b>1.2.3.6.</b>
+                    
+                    Binary tree sort
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3.7" data-path="../sort/radix-sort.html">
+            
+                <a href="../sort/radix-sort.html">
+            
+                    
+                        <b>1.2.3.7.</b>
+                    
+                    Radix sort
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4" data-path="../graph-theory.html">
+            
+                <a href="../graph-theory.html">
+            
+                    
+                        <b>1.2.4.</b>
+                    
+                    Graph Theory 
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.4.1" >
+            
+                <span>
+            
+                    
+                        <b>1.2.4.1.</b>
+                    
+                    Huffman Coding
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4.2" data-path="../graph-theory/tree-traversal.html">
+            
+                <a href="../graph-theory/tree-traversal.html">
+            
+                    
+                        <b>1.2.4.2.</b>
+                    
+                    Tree traversal 
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.4.2.1" data-path="../graph-theory/breadth-first-search.html">
+            
+                <a href="../graph-theory/breadth-first-search.html">
+            
+                    
+                        <b>1.2.4.2.1.</b>
+                    
+                    Breadth First Search
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4.2.2" data-path="../graph-theory/depth-first-search.html">
+            
+                <a href="../graph-theory/depth-first-search.html">
+            
+                    
+                        <b>1.2.4.2.2.</b>
+                    
+                    Depth First Search
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.4.2.2.1" data-path="../graph-theory/pre-order.html">
+            
+                <a href="../graph-theory/pre-order.html">
+            
+                    
+                        <b>1.2.4.2.2.1.</b>
+                    
+                    Pre-order
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4.2.2.2" >
+            
+                <span>
+            
+                    
+                        <b>1.2.4.2.2.2.</b>
+                    
+                    In-order
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4.2.2.3" >
+            
+                <span>
+            
+                    
+                        <b>1.2.4.2.2.3.</b>
+                    
+                    Post-order
+            
+                </span>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4.3" >
+            
+                <span>
+            
+                    
+                        <b>1.2.4.3.</b>
+                    
+                    Shortest path problem
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4.4" >
+            
+                <span>
+            
+                    
+                        <b>1.2.4.4.</b>
+                    
+                    Minimum spanning tree
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4.5" >
+            
+                <span>
+            
+                    
+                        <b>1.2.4.5.</b>
+                    
+                    Network flow
+            
+                </span>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5" data-path="../greedy.html">
+            
+                <a href="../greedy.html">
+            
+                    
+                        <b>1.2.5.</b>
+                    
+                    Greedy
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter active" data-level="1.2.5.1" data-path="fractional-knapsack-problem.html">
+            
+                <a href="fractional-knapsack-problem.html">
+            
+                    
+                        <b>1.2.5.1.</b>
+                    
+                    Fractional Knapsack Problem
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.6" data-path="../dynamic-programming.html">
+            
+                <a href="../dynamic-programming.html">
+            
+                    
+                        <b>1.2.6.</b>
+                    
+                    Dynamic Programming
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.6.1" data-path="../dynamic-programming/0-1-knapsack-problem.html">
+            
+                <a href="../dynamic-programming/0-1-knapsack-problem.html">
+            
+                    
+                        <b>1.2.6.1.</b>
+                    
+                    0-1 Knapsack Problem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.6.2" data-path="../dynamic-programming/coin-change.html">
+            
+                <a href="../dynamic-programming/coin-change.html">
+            
+                    
+                        <b>1.2.6.2.</b>
+                    
+                    Coin Change
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../../data-structure.md">
+            
+                <span>
+            
+                    
+                        <b>1.3.</b>
+                    
+                    Data Structure
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" >
+            
+                <span>
+            
+                    
+                        <b>1.3.1.</b>
+                    
+                    Array
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" >
+            
+                <span>
+            
+                    
+                        <b>1.3.2.</b>
+                    
+                    Heap
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" >
+            
+                <span>
+            
+                    
+                        <b>1.3.3.</b>
+                    
+                    Stack
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" >
+            
+                <span>
+            
+                    
+                        <b>1.3.4.</b>
+                    
+                    Queue
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5" >
+            
+                <span>
+            
+                    
+                        <b>1.3.5.</b>
+                    
+                    Linked List
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.6" >
+            
+                <span>
+            
+                    
+                        <b>1.3.6.</b>
+                    
+                    Tree
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.6.1" data-path="../../data-structure/bit-binary-index-tree.html">
+            
+                <a href="../../data-structure/bit-binary-index-tree.html">
+            
+                    
+                        <b>1.3.6.1.</b>
+                    
+                    BIT (Binary Index Tree)
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.7" >
+            
+                <span>
+            
+                    
+                        <b>1.3.7.</b>
+                    
+                    Graph
+            
+                </span>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" >
+            
+                <span>
+            
+                    
+                        <b>1.4.</b>
+                    
+                    Database
+            
+                </span>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../../git-complete.html">
+            
+                <a href="../../git-complete.html">
+            
+                    
+                        <b>1.5.</b>
+                    
+                    Git Complete
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="../../git-complete/git.html">
+            
+                <a href="../../git-complete/git.html">
+            
+                    
+                        <b>1.5.1.</b>
+                    
+                    Git
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="../../git-complete/gitbook.html">
+            
+                <a href="../../git-complete/gitbook.html">
+            
+                    
+                        <b>1.5.2.</b>
+                    
+                    Gitbook
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="../.." >Fractional Knapsack Problem</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <p>123</p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="../greedy.html" class="navigation navigation-prev " aria-label="Previous page: Greedy">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="../dynamic-programming.html" class="navigation navigation-next " aria-label="Next page: Dynamic Programming">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Fractional Knapsack Problem","level":"1.2.5.1","depth":3,"next":{"title":"Dynamic Programming","level":"1.2.6","depth":2,"path":"algorithm/dynamic-programming.md","ref":"algorithm/dynamic-programming.md","articles":[{"title":"0-1 Knapsack Problem","level":"1.2.6.1","depth":3,"path":"algorithm/dynamic-programming/0-1-knapsack-problem.md","ref":"algorithm/dynamic-programming/0-1-knapsack-problem.md","articles":[]},{"title":"Coin Change","level":"1.2.6.2","depth":3,"path":"algorithm/dynamic-programming/coin-change.md","ref":"algorithm/dynamic-programming/coin-change.md","articles":[]}]},"previous":{"title":"Greedy","level":"1.2.5","depth":2,"path":"algorithm/greedy.md","ref":"algorithm/greedy.md","articles":[{"title":"Fractional Knapsack Problem","level":"1.2.5.1","depth":3,"path":"algorithm/greedy/fractional-knapsack-problem.md","ref":"algorithm/greedy/fractional-knapsack-problem.md","articles":[]}]},"dir":"neutral"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchors","anchor-navigation-ex","anchor-navigation","livereload"],"pluginsConfig":{"livereload":{},"search":{},"anchor-navigation":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"anchor-navigation-ex":{"associatedWithSummary":true,"float":{"level1Icon":"","level2Icon":"","level3Icon":"","showLevelIcon":false},"mode":"float","multipleH1":false,"pageTop":{"level1Icon":"","level2Icon":"","level3Icon":"","showLevelIcon":false},"printLog":false,"showLevel":true},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":true},"anchors":{}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"algorithm/greedy/fractional-knapsack-problem.md","mtime":"2017-09-21T00:19:11.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2017-09-24T13:22:25.903Z"},"basePath":"../..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../../gitbook/gitbook.js"></script>
+    <script src="../../gitbook/theme.js"></script>
+    
+        
+        <script src="../../gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
