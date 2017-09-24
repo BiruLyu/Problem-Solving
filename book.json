@@ -4,7 +4,7 @@
         "anchor-navigation-ex": {
            "showLevel": true,
            "associatedWithSummary":true,
-           "multipleH1": true,
+           "multipleH1": true
            
         },
         "theme-default": {
