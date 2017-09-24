@@ -1,19 +1,6 @@
 {
-    "plugins": [ "theme-api", "anchors", "anchor-navigation-ex"],
-    "pluginsConfig": {
-        "theme-api": {
-            "languages": [
-                {
-                    "lang": "js",
-                    "name": "JavaScript",
-                    "default": true
-                },
-                {
-                    "lang": "go",
-                    "name": "Go"
-                }
-            ]
-        }，
+    "plugins": [ "anchors", "anchor-navigation-ex"],
+    "pluginsConfig": [
         "anchor-navigation-ex": {
            "associatedWithSummary":true
         },
