@@ -33,6 +33,7 @@ git push -f gitbook gitbook:master
 
 
 **Change the remote repository url**
+https://help.github.com/articles/changing-a-remote-s-url/
 ```
 git remote -v
 git remote set-url bitbucket https://bitbucket.org/BiruLyu/PrivateRepository
