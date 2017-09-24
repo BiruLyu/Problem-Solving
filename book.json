@@ -1,5 +1,5 @@
 {
-    "plugins": [ "anchors", "anchor-navigation-ex"],
+    "plugins": [ "anchors", "anchor-navigation-ex","anchor-navigation"],
     "pluginsConfig": {
         "anchor-navigation-ex": {
            "showLevel": true,
