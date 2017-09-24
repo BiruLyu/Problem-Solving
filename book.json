@@ -13,14 +13,14 @@
                     "name": "Go"
                 }
             ]
-            "anchor-navigation-ex": {
+        }，
+        "anchor-navigation-ex": {
            "associatedWithSummary":true
         },
         "theme-default": {
             "showLevel": true
         }
 
-        }
         
     }
 }
