@@ -1,0 +1,23 @@
+{
+  "name": "introduction",
+  "version": "1.0.0",
+  "description": "Daily Practiceᕦ\\(ò\\_óˇ\\)ᕤ！！",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-anchor-navigation": "^0.0.1",
+    "gitbook-plugin-anchor-navigation-ex": "^1.0.10",
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-summary": "^0.1.3",
+    "gitbook-plugin-theme-api": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.gitbook.com/birulyu/introduction.git"
+  },
+  "author": "Biru Lyu",
+  "license": "ISC"
+}
