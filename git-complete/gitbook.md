@@ -16,7 +16,8 @@ git branch bitbucket
 create a Bitbucket private repo
 git remote add bitbucket https://user@bitbuck.org/user/repo.git
 git push bitbucket bitbucket:master
-```
+``` 
+
 1.2 **By GitBook Editor**
 
 ```
