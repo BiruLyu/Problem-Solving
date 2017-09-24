@@ -2,7 +2,10 @@
     "plugins": [ "anchors", "anchor-navigation-ex"],
     "pluginsConfig": {
         "anchor-navigation-ex": {
-           "associatedWithSummary":true
+           "showLevel": true,
+           "associatedWithSummary":true,
+           "multipleH1": true,
+           
         },
         "theme-default": {
             "showLevel": true
