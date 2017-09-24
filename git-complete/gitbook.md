@@ -4,7 +4,7 @@
 1. [Config after creating a book by...](https://lightablue.gitbooks.io/private-gitbook-by-bitbucket/content/chapter1.html)
 
 
-1.1 **By GitBook website**
+## 1.1 **By GitBook website**
 
 ```
 cd ~/GitBook/Library/Import
@@ -18,7 +18,7 @@ git remote add bitbucket https://user@bitbuck.org/user/repo.git
 git push bitbucket bitbucket:master
 ``` 
 
-1.2 **By GitBook Editor**
+## 1.2 **By GitBook Editor**
 
 ```
 cd ~/GitBook/Library/Import/book
