@@ -1,10 +1,10 @@
 # 
 
-### Private GitBook by Bitbucket
-1. [Config after creating a book by...](https://lightablue.gitbooks.io/private-gitbook-by-bitbucket/content/chapter1.html)
+## Private GitBook by Bitbucket
+[Config after creating a book by...](https://lightablue.gitbooks.io/private-gitbook-by-bitbucket/content/chapter1.html)
 
 
-## 1.1 **By GitBook website**
+### 1.1 **By GitBook website**
 
 ```
 cd ~/GitBook/Library/Import
@@ -18,7 +18,7 @@ git remote add bitbucket https://user@bitbuck.org/user/repo.git
 git push bitbucket bitbucket:master
 ``` 
 
-## 1.2 **By GitBook Editor**
+### 1.2 **By GitBook Editor**
 
 ```
 cd ~/GitBook/Library/Import/book
@@ -33,7 +33,8 @@ git push -f gitbook gitbook:master
 ```
 
 
-**Change the remote repository url**
+
+## **Change the remote repository url**
 https://help.github.com/articles/changing-a-remote-s-url/
 ```
 git remote -v
@@ -42,5 +43,9 @@ git remote set-url origin https://bitbucket.org/BiruLyu/PrivateRepository
 
 ```
 
+## Run multiple gitbook server
+```
+gitbook --port 5000 --lrport 5001 serve
+```
 
 
