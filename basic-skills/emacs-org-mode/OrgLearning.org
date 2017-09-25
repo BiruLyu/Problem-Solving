@@ -1,0 +1,130 @@
+#+TAGS: PHONE(p) COMPUTER(c) SHOPPING(s)
+* Get yourself organized with Orgmode 
+  link: https://www.youtube.com/watch?v=sQS06Qjnkcc&list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE&index=1
+
+** level 5
+***** level 6
+****** level 7
+******* level 8
+******** level 9
+********* level 10
+********** level 11
+*********** level 12
+
+
+* E01S02.  Headlines and Outline Mode
+  
+  1. Cursor on the headline
+  2. 
+   using *Tab* to locally circle extend or collapse bullet
+   using *Shift + Tab* to globally circle extend or collapse bullet
+  
+   using *Alt + Left/Right* to promote or demote headline
+   using *Alt + Up/Down* to move list item up/down
+  
+   using *C-c + C-w + destination* to move headline to under another top level headline
+  
+* E01S02. TODO keyword                                                :PHONE:
+  
+* E02S01. Tags
+  Using *#+TAGS: PHONE(p)* to predefine TAGS and *C-c + C-c* to active
+  Using *C-c + C-q* to assign tags :
+        enter toggle or *TAB* to add new tag without predifining 
+  
+** Inherited tags
+* Code Execute:
+  *C-c C-c*
+  *org-edit-src-code*
+
+** example 1
+#+HEADERS: :classname Solution
+#+BEGIN_SRC java :results output :exports both
+  class Solution{
+    public static void main(String[] args) {
+	System.out.println("Hello, World!");
+	System.out.println("Second!");
+    }
+  }
+#+END_SRC
+
+#+Results:
+: Hello, World!
+: Second!
+
+** example shell
+#+BEGIN_SRC shell
+$ sudo rm -f 
+#+END_SRC
+
+** example2
+#+HEADERS: :classname Solution1
+#+BEGIN_SRC java :results output
+  class Solution1 {
+      public static void main(String[] args) {
+	  System.out.println("Hello World!");
+      }
+  }
+
+#+END_SRC
+
+#+RESULTS:
+: Hello World!
+* Link and Image
+** Image
+
+   *org-display-inline-images*
+   *M-x my-img* 自定义函数
+   
+   #+BEGIN_SRC emacs-lisp
+   ;;always display inline images 
+   (setq org-startup-with-inline-images t)
+
+   (defun my-img ()
+     "Take a screenshot into a time stamped unique-named file in the
+   same directory as the org-buffer and insert a link to this file."
+     (interactive)
+     (setq filename
+	   (concat
+	    (make-temp-name
+	     (concat (file-name-nondirectory (buffer-file-name))
+		     "_"
+		     (format-time-string "%Y%m%d_%H%M%S_")) ) ".png"))
+     (call-process "screencapture" nil nil nil "-i" filename)
+     (insert (concat "[[file:~/" filename "]]"))
+     (org-display-inline-images))(defun get-newest-file-from-dir  (path)
+	 "Get latest file (including directory) in PATH."
+	 (car (directory-files path 'full nil #'file-newer-than-file-p)))
+
+       (defun insert-org-image ()
+	 "Moves image from Dropbox folder to ./media, inserting org-mode link"
+	 (interactive)
+	 (let* ((indir (expand-file-name andre--screenshot-folder))
+		(infile (get-newest-file-from-dir indir))
+		(outdir (concat (file-name-directory (buffer-file-name)) "/media"))
+		(outfile (expand-file-name (file-name-nondirectory infile) outdir)))
+	   (unless (file-directory-p outdir)
+	     (make-directory outdir t))
+	   (rename-file infile outfile)
+	   (insert (concat (concat "[[file:~/media/" (file-name-nondirectory outfile)) "]]")))
+	 (newline)
+	 (newline)
+	 (org-display-inline-images) )
+
+   (add-to-list 'package-archives
+		'("marmalade" . "http://marmalade-repo.org/packages/"))
+ #+END_SRC
+
+** Link
+  *C-c C-l* edit link
+  [[http://www.gnu.org/software/emacs/][GNU Emacs]]
+  #+ATTR_HTML: width="300"
+  #+ATTR_ORG: :width 300
+[[file:~/myimage.png]]
+* Export Html or Pdf
+  *C-c + C-e*
+* change linkable text or link address
+http://www.cnblogs.com/bamanzi/archive/2012/12/03/emacs-find-modify-all-occurences.html
+*C-c + C-l*
+* 启用缩进模式
+ =org-indent-mode=
+

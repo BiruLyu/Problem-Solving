@@ -11,12 +11,15 @@
     * DFS
   * [Sort](algorithm/sort/README.md)
     * [Bubble Sort](algorithm/sort/bubble-sort.md)
-    * Insertion Sort
+    * [Selection sort](algorithm/sort/selection-sort.md)
+    * [Insertion Sort](algorithm/sort/insertion-sort.md)
     * Bucket Sort
     * Counting Sort
-    * Merge Sort
+    * [Merge Sort](algorithm/sort/merge-sort.md)
+    * [Quick Sort](algorithm/sort/quick-sort.md)
     * Binary tree sort
     * [Radix sort](algorithm/sort/radix-sort.md)
+    * [Shell Sort](algorithm/sort/shell-sort.md)
   * [Graph Theory ](algorithm/graph-theory/README.md)
     * Huffman Coding
     * [Tree traversal ](algorithm/graph-theory/tree-traversal.md)
@@ -33,6 +36,8 @@
   * [Dynamic Programming](algorithm/dynamic-programming/README.md)
     * [0-1 Knapsack Problem](algorithm/dynamic-programming/0-1-knapsack-problem.md)
     * [Coin Change](algorithm/dynamic-programming/coin-change.md)
+  * [Divide and Conquer](algorithm/search/divide-and-conquer.md)
+    * [quickSelect + median of medians + quickSort](algorithm/search/divide-and-conquer/quickselect-+-median-of-medians-+-quicksort.md)
 * [Data Structure](data-structure.md)
   * Array
   * Heap
@@ -42,19 +47,29 @@
   * Tree
     * [BIT \(Binary Index Tree\)](data-structure/bit-binary-index-tree.md)
   * Graph
-  * 123
+
+## System Design
+
+* [Singleton Pattern](system-design/singleton-pattern.md)
+
+## Programing languages
+
+* [Java](programing-languages/java.md)
+  * [Iterate List, Map, ArrayList](programing-languages/java/how-to-iterate-through-java-list.md)
+  * [Sort Map\(Java 8\)](programing-languages/java/sort-mapjava-8.md)
+  * [静态方法和实例方法的区别](programing-languages/java/jing-tai-fang-fa-he-shi-li-fang-fa-de-qu-bie.md)
 
 ## Database
 
 * [Database](database/database.md)
-  * [123](database/database/123.md)
-    * [1234](database/database/123/1234.md)
 
 ## Basic Skills
 
-* [Git Complete](git-complete/README.md)
-  * [Git](git-complete/git.md)
-  * [Gitbook](git-complete/gitbook.md)
+* [Git Complete](basic-skills/git-complete/README.md)
+  * [Git](basic-skills/git-complete/git.md)
+  * [Gitbook](basic-skills/git-complete/gitbook.md)
+* [Emacs + Org-mode](basic-skills/emacs-org-mode/README.md)
+  * [Org-mode](basic-skills/emacs-org-mode/org-mode.md)
 
 ## Courses
 
