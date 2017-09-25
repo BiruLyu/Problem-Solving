@@ -1,5 +1,5 @@
 {
-    "plugins": [ "anchors", "anchor-navigation-ex","anchor-navigation"],
+    "plugins": [ "anchors", "anchor-navigation-ex","anchor-navigation","expandable-chapters"],
     "pluginsConfig": {
         "anchor-navigation-ex": {
            "showLevel": true,
