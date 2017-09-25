@@ -78,4 +78,5 @@
   * [Search Engine Basics](courses/csci572-information-retrieval/search-engine-basics.md)
   * [Characterizing the Web\(Web Trends and Measurements\)](courses/csci572-information-retrieval/characterizing-the-webweb-trends-and-measurements.md)
   * [Search Engine Evaluation](courses/csci572-information-retrieval/search-engine-evaluation.md)
+  * [Crawling in One](courses/csci572-information-retrieval/crawling-in-one.md)
 
