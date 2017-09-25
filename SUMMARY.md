@@ -58,6 +58,7 @@
   * [Iterate List, Map, ArrayList](programing-languages/java/how-to-iterate-through-java-list.md)
   * [Sort Map\(Java 8\)](programing-languages/java/sort-mapjava-8.md)
   * [静态方法和实例方法的区别](programing-languages/java/jing-tai-fang-fa-he-shi-li-fang-fa-de-qu-bie.md)
+  * [Java Platform Roles](programing-languages/java/java-platform-roles.md)
 
 ## Database
 
