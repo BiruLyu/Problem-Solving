@@ -42,14 +42,24 @@
   * Tree
     * [BIT \(Binary Index Tree\)](data-structure/bit-binary-index-tree.md)
   * Graph
+  * 123
 
 ## Database
 
 * [Database](database/database.md)
+  * [123](database/database/123.md)
+    * [1234](database/database/123/1234.md)
 
 ## Basic Skills
 
 * [Git Complete](git-complete/README.md)
   * [Git](git-complete/git.md)
   * [Gitbook](git-complete/gitbook.md)
+
+## Courses
+
+* [CSCI572 Information Retrieval](courses/csci572-information-retrieval.md)
+  * [Search Engine Basics](courses/csci572-information-retrieval/search-engine-basics.md)
+  * [Characterizing the Web\(Web Trends and Measurements\)](courses/csci572-information-retrieval/characterizing-the-webweb-trends-and-measurements.md)
+  * [Search Engine Evaluation](courses/csci572-information-retrieval/search-engine-evaluation.md)
 
