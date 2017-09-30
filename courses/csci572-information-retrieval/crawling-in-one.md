@@ -30,7 +30,11 @@ Begin with known "**seed**" page, fetch and parse a page(extract the URLs within
 # Complications
 
 + crawling the entire page isn't feasible with one machine ==> multiple threads, distributed
-+ avoiding **malicious** pages : spam, spider traps(dynamically generated pages) [avoid-spider-traps](#avoid-spider-traps)
++ avoiding **malicious** pages : spam, spider traps(dynamically generated pages) 
+
+[avoid-spider-traps](#avoid-spider-traps)
+
+[Handling Spam](#handling-spam)
 + latency/bandwidth to remote server can vary widely
 + **Robots.txt** can prevent page from visiting
 + avoiding mirrors and duplicate pages [avoid-page-duplication](#avoid-page-duplication)
@@ -116,13 +120,13 @@ People can type URL in different way but they all point to the same place. e.g. 
 3. Decode precent-encoded octets of unreserved characters.
 4. Remove the default port.
 
-# Avoid Spider Traps</a>
+# Avoid Spider Traps
 
 A spider trap is when a crawler re-visits the same page over and over again. The most well-known spider trap is the one created by the use of **Session ID**
 
 ![](/assets/IMG_C8CE5A662D11-1.jpeg)
 
-# <a name = "handling-spam"></a>Handling Spam</a>
+# Handling Spam
 
 1. First Generation : consisted of pages with a high number of repeated terms
 2. Second Generation : _**cloaking**_ ==> return different pages to crawler and users
