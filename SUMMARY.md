@@ -28,6 +28,7 @@
         * [Pre-order](algorithm/graph-theory/pre-order.md)
         * In-order
         * Post-order
+    * [DAG](algorithm/graph-theory/dag.md)
     * Shortest path problem
     * Minimum spanning tree
     * Network flow
