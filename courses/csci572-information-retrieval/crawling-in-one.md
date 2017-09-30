@@ -31,10 +31,8 @@ Begin with known "**seed**" page, fetch and parse a page(extract the URLs within
 
 + crawling the entire page isn't feasible with one machine ==> multiple threads, distributed
 + avoiding **malicious** pages : spam, spider traps(dynamically generated pages) 
-
-[avoid-spider-traps](#avoid-spider-traps)
-
-[Handling Spam](#handling-spam)
+  [avoid-spider-traps](#avoid-spider-traps)
+  [Handling Spam](#handling-spam)
 + latency/bandwidth to remote server can vary widely
 + **Robots.txt** can prevent page from visiting
 + avoiding mirrors and duplicate pages [avoid-page-duplication](#avoid-page-duplication)
