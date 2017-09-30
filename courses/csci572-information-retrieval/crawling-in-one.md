@@ -59,7 +59,7 @@ How the new links are added to the queue determines the search strategy.
   - Move forward URLs whose **In-degree is large**
   - Move forward URLs whose **PageRank** is large
   
-# <a name = "avoid-page-duplication"></a>Avoid Page Duplication</a>
+# Avoid Page Duplication
 
 A crawler must detect that when revisiting a page that has already been crawled. Therefore, a crawler must **efficiently index URLs as well as already visited pages**.
 
@@ -80,7 +80,7 @@ The web is a graph not a tree.
 1. Some anchor don't have links
 2. SOme anchor produce dynamic pages which can lead to looping
 
-### <a name = "representing-urls"></a>Representing URLs
+### Representing URLs
 
 #### One Proposed Method
 
@@ -116,7 +116,7 @@ People can type URL in different way but they all point to the same place. e.g. 
 3. Decode precent-encoded octets of unreserved characters.
 4. Remove the default port.
 
-# <a name = "avoid-spider-traps"></a>Avoid Spider Traps</a>
+# Avoid Spider Traps</a>
 
 A spider trap is when a crawler re-visits the same page over and over again. The most well-known spider trap is the one created by the use of **Session ID**
 
