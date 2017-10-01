@@ -27,18 +27,21 @@ Begin with known "**seed**" page, fetch and parse a page(extract the URLs within
 
 ![](/assets/IMG_47F4FC4A34C7-1.jpeg)
 
-# Complications
+# Complications && More Issues:
 
 + crawling the entire page isn't feasible with one machine ==> multiple threads, distributed
++ latency/bandwidth to remote server can vary widely
 + avoiding **malicious** pages : spam, spider traps(dynamically generated pages) 
     [avoid-spider-traps](#avoid-spider-traps)
     [Handling Spam](#handling-spam)
-+ latency/bandwidth to remote server can vary widely
-+ **Robots.txt** can prevent page from visiting
++ **Robots.txt** can prevent page from visiting [robots.txt](#robots.txt)
 + avoiding mirrors and duplicate pages [avoid-page-duplication](#avoid-page-duplication)
 + **maintain politeness - don't hit a server too often**
++ Refresh Strategies
++ [Speeding up DNS lookup](#DNS-chaching)
 
-## Robots.txt
+
+## <a name = "robots.txt"></a> Robots.txt
 
 defines the **limitations** for a web crawler as it visit a website.
 The website announces its request on what can/can't be crawled by placing a **robots.txt** file in the root directory.
@@ -130,10 +133,32 @@ A spider trap is when a crawler re-visits the same page over and over again. The
 2. Second Generation : _**cloaking**_ ==> return different pages to crawler and users
 3. Third Generation : **_doorway page_** ==> contain highly ranked text and metadata
 
+
 # The Mercator Web Crawler 
 
 ![](https://ws4.sinaimg.cn/large/006tNc79gy1fk1fxk6csbj31kw16o1kx.jpg)
 
+# Measuring and Tuning a Crawler reduces to:
 
++ Improving URL parsing speed
++ Improving network bandwidth speed
++ Improving fault tolerance
+
+
+# <a name = "DNS-chaching"></a>DNS caching, pre-fetching and resolution
+
++ **DNS caching** : 
+  build a caching server that retains IP-domain name mappings previously discovered
++ Pre-fetching client:
+  once the page is parsed immediately make DNS resolution requests to the caching server; if unresolved, use **UDP(User Datagram Protocol)** to resolve from the DNS server.
++ Customize the crawler so it allows issuing of many resolution requests simultaneously; there should be many DNS resolvers.
+
+# Multi-Threaded Crawling
+
+One bottleneck is **network delay** in downloading individual pages.
+
+It is best to have **multiple threads** running in parallel each requesting a page from a different host.
+
+**Distributed** URL's to threads to guarantee equitable distribution of requests across different hosts <u>maximize</u> through-put** and avoid overloading any single 
 
 
