@@ -4,6 +4,17 @@
 
 A web crawler is a computer program that visit web pages in an organized way. For example, Google's **googlebot**, Yahoo's **Yahoo!Slurp**, Bing's **Bingbot, Adidxbot, MSNbot, MSBBotMedia, BingPreview**.
 
+Google now uses multiple crawlers : 
++ Googlebot
++ Googlebot News
++ Googlebot Images
++ Googlebot Video
++ Google Mobile Smartphone
++ Google Mobile AdSense
++ Google AdsBot
++ Google app crawler
+![](/assets/04 CrawlingInOne 9.png)
+
 ## What is crawling issues?
 
 ### How to crawl?
@@ -21,27 +32,37 @@ A web crawler is a computer program that visit web pages in an organized way. Fo
 
 + **_Freshness_** : How much has changed? How much has really changes?
 
+### Complications && More Issues:
+
++ crawling the entire page isn't feasible with one machine ==> 
+  + [multiple threads](#multiple-threaded-crawling)
+  + [distributed](#distributed-crawling)
++ latency/bandwidth to remote server can vary widely
++ avoiding **malicious** pages : spam, spider traps(dynamically generated pages) 
+  + [avoid-spider-traps](#avoid-spider-traps)
+  + [Handling Spam](#handling-spam)
++ **Robots.txt** can prevent page from visiting [robots.txt](#robots.txt)
++ avoiding mirrors and duplicate pages [avoid-page-duplication](#avoid-page-duplication)
++ **maintain politeness - don't hit a server too often**
++ Refresh Strategies [freshness](#freshness)
++ [Speeding up DNS lookup](#DNS-chaching)
+
+### Policies of web crawler
+The behavior of a Web crawler is the outcome of a combination of policies : 
++ A **selection policy** that states which pages to download
++ A **revisit policy** that states when to check for changes to the pages
++ A **politeness policy** that states how to avoid overloading websites
++ A **parallelization policy** that states how to coordinate distributed web crawlers.
+
+
+
 # Simplest Crawler Operation (Crawling Algorithm Version 01)
 
 Begin with known "**seed**" page, fetch and parse a page(extract the URLs within the page and put them on a queue), fetch each URL on the queue and repeat.
 
 ![](/assets/IMG_47F4FC4A34C7-1.jpeg)
 
-# Complications && More Issues:
-
-+ crawling the entire page isn't feasible with one machine ==> multiple threads, distributed
-+ latency/bandwidth to remote server can vary widely
-+ avoiding **malicious** pages : spam, spider traps(dynamically generated pages) 
-    [avoid-spider-traps](#avoid-spider-traps)
-    [Handling Spam](#handling-spam)
-+ **Robots.txt** can prevent page from visiting [robots.txt](#robots.txt)
-+ avoiding mirrors and duplicate pages [avoid-page-duplication](#avoid-page-duplication)
-+ **maintain politeness - don't hit a server too often**
-+ Refresh Strategies
-+ [Speeding up DNS lookup](#DNS-chaching)
-
-
-## <a name = "robots.txt"></a> Robots.txt
+# <a name = "robots.txt"></a> Robots.txt
 
 defines the **limitations** for a web crawler as it visit a website.
 The website announces its request on what can/can't be crawled by placing a **robots.txt** file in the root directory.
@@ -153,12 +174,95 @@ A spider trap is when a crawler re-visits the same page over and over again. The
   once the page is parsed immediately make DNS resolution requests to the caching server; if unresolved, use **UDP(User Datagram Protocol)** to resolve from the DNS server.
 + Customize the crawler so it allows issuing of many resolution requests simultaneously; there should be many DNS resolvers.
 
-# Multi-Threaded Crawling
+# <a name = "multiple-threaded-crawling"></a>Multi-Threaded Crawling 
 
 One bottleneck is **network delay** in downloading individual pages.
 
 It is best to have **multiple threads** running in parallel each requesting a page from a different host.
++ **thread** : a thread of execution is the smallest sequence of programmed instructions that can be managed independently by a scheduler. 
++ In most cases, a thread is a component of a process.
++ Multiple threads can exist within the same process and share resources.
 
-**Distributed** URL's to threads to guarantee equitable distribution of requests across different hosts <u>maximize</u> through-put** and avoid overloading any single 
+# <a name = "distributed-crawling"></a>Distributed Crawling Approache
+
+**Distributed** URL's to threads to guarantee equitable distribution of requests across different hosts __**maximize through-put**__ and avoid overloading any single server.
+
++ How many crawlers should be running at any time?
+  + Scenario 1: A centralized crawler controlling a set of parallel crawlers all running on a LAN
+  + Scenario 2: A distributed set of crawlers running on widely distributed machines, with or without cross communication.
+  
+## Distributed Model
+
+![](/assets/04 CrawlingInOne 3.png)
+![](/assets/04 CrawlingInOne 4.png)
+
+Three strategies of Coordination of Distributed Crawling : 
++ **Independent** : no coordination, every process follows its extracted links
++ **Dynamic assignment** : a central coordinator dynamically divides the web into small partitions and assign each partition to a process
++ **Static assignment** : web is partitioned and assigned without a central coordinator before the crawl starts 
+  + inter-partition links can be handled in three ways as follow :
+    ![](/assets/04 CrawlingInOne 5.png)
+    + Firewall mode
+    + Cross-over mode
+    + Exchange mode(communication required):
+      + Batch communications : every process collects some URLs and sends them in a batch
+      + Replication: the k most popular URLs are replicated at each process and not exchanged 
+
+### Some ways to partition the Web:
+
++ **URL-hash based** : this yields many inter-partition links
++ **Site-hash based** : reduces the intern-partition links
++ **Hierarchical** : by TLD(Top-Level-Domain)
+
+## General Conclusions of Cho and Garcia-Molina
+
++ Firewall crawlers attain good, general coverage with low cost
++ Cross-over ensures 100% quality, but suffer from overlap
++ Replicating URLs and batch communication can reduce overhead
+
+# <a name = "freshness"></a>Freshness
+
+how fresh the page in our database compared to the page out there
+
+Web is very dynamic : many new pages, updated pages and deleted pages, etc.
+
+![](/assets/04 CrawlingInOne 6.png)
+
+## Cho and Garcia-Molina Experiment 
+
+![](/assets/1.png)
+![](/assets/2.png)
+
+## Implications for a Web Crawler
+
+![](/assets/04 CrawlingInOne 7.png)
+
+## Change Frequency vs. Optimal Re-visiting
+
+![](/assets/04 CrawlingInOne 8.png)
+
+## Cho and Garcia-Molina
+
+Two simple re-visiting policies:
++ **Uniform policy** : with same frequency
++ **Proportional Policy** : re-visiting more often the pages that change more frequently
+
+**The uniform policy outperforms the proportional policy.**
+
+The explanation for this result comes from the fact that, 
+**when a page changes too often, the crawler will waste 
+time by trying to re-crawl it too fast and still will not be 
+able to keep its copy of the page fresh**. 
+
+To improve freshness, we should **penalize the element that change to fast.**
+
+# SiteMap
+
+A **sitemap** is a list of pages of a web site accessible to crawlers.
+
++ XML is used as the standard for representing sitemaps. contains `<loc>`, `<lastmod>`, `<changefreq>`, and `<priority>`
+
+
+
 
 
