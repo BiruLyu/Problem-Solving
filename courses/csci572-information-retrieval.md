@@ -11,3 +11,4 @@
 OR
 `ssh <username>@cs-server.usc.edu`
 
+`scp [user@]host1:]file1 ... [[user@]host2:]file2`

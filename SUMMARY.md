@@ -83,4 +83,5 @@
   * [Identifying Duplicates](courses/csci572-information-retrieval/identifying-duplicates.md)
   * [Introduction to Information Retrieval  ](courses/csci572-information-retrieval/introduction-to-information-retrieval.md)
   * [Lexicon & Text Normalization  ](courses/csci572-information-retrieval/lexicon-and-text-normalization.md)
+  * [Inverted Indexing](courses/csci572-information-retrieval/inverted-indexing.md)
 
