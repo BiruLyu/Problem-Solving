@@ -158,7 +158,7 @@ Many other ways of determining term weights have been proposed.•  Experimenta
 ![](https://ws1.sinaimg.cn/large/006tKfTcgy1fk4h1puolzj31kw0uf7b2.jpg)
 
 Given a query `q`, then we score the query against a document `d` using the formula
-$$Score (q, d) = \sum (tf.idf_{t,d}) \ where \ t \ is \ in \  q ∩ d$$
+$$Score (q, d) = \sum (tf.idf_{t,d}) \ where \ t \ is \ in \  q \cap d$$
 
 ### Cosine Similarity
 
