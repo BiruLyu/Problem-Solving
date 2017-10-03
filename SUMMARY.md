@@ -86,4 +86,5 @@
   * [Inverted Indexing](courses/csci572-information-retrieval/inverted-indexing.md)
   * [YouTube Search Engine](courses/csci572-information-retrieval/youtube-as-a-search-engine.md)
   * [Google Query Formulation  ](courses/csci572-information-retrieval/google-query-formulation.md)
+  * [Page Rank ](courses/csci572-information-retrieval/page-rank.md)
 
