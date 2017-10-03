@@ -89,7 +89,7 @@ There are several **distance measures** that can play a role in locating duplica
   $$ D([x1...xn], [y1,...,yn]) = sqrt(Sum(xi-yi)^2) i=1...n$$
   
 + **Jaccard distance**
-  $$D(x,y) = 1 – SIM(x,y)$$ or 1 minus the ratio of the sizes of the intersection and union of sets x and y
+  $$D(x,y) = 1 - SIM(x,y)$$ or 1 minus the ratio of the sizes of the intersection and union of sets x and y
 
 + **Cosine distance**
   the cosine distance between two points (two n element vectors) is the angle that the vectors to those points make; in the range 0 to 180 degrees
