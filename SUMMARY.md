@@ -84,4 +84,6 @@
   * [Introduction to Information Retrieval  ](courses/csci572-information-retrieval/introduction-to-information-retrieval.md)
   * [Lexicon & Text Normalization  ](courses/csci572-information-retrieval/lexicon-and-text-normalization.md)
   * [Inverted Indexing](courses/csci572-information-retrieval/inverted-indexing.md)
+  * [YouTube Search Engine](courses/csci572-information-retrieval/youtube-as-a-search-engine.md)
+  * [Google Query Formulation  ](courses/csci572-information-retrieval/google-query-formulation.md)
 
