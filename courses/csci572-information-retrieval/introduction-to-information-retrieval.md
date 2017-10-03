@@ -103,7 +103,7 @@ Assume `t` distinct terms remain after preprocessing; call them index **terms** 
 These “orthogonal” terms form a vector space :
 
 $$
-size of the vocabulary = Dimension = t = |vocabulary|
+size \ of \ the \ vocabulary = Dimension = t = |vocabulary|
 $$
 A document $$D_i$$ is represented by a vector of index terms
 
@@ -134,7 +134,7 @@ $$
 
 of course $$df_i$$ is always `<= N (total number of documents)`
 $$
-idf_i = inverse \ document \ frequency \ of \ term \ i,\\= \log_2\frac{N}{df_i}(N: total number of documents)
+idf_i = inverse \ document \ frequency \ of \ term \ i = \log_2\frac{N}{df_i}(N: total number of documents)
 $$
 An indication of a term’s **discrimination power**
 
