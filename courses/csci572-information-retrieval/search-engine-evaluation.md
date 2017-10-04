@@ -71,6 +71,9 @@ $$p$$ : postion p at a particular rank
 $$rel_i$$ : is the graded relevance of the result at position i
 Typical Discount is $$\frac{1}{\log rank}$$
 
+The premise of DCG is that highly relevant documents appearing lower in a search result list should be penalized as **the graded relevance value is reduced logarithmically proportional to the position of the result.**
+![](https://ws1.sinaimg.cn/large/006tNc79gy1fk6izc0cxlj30ww0i20wf.jpg)
+
 # How Evaluation is Done at Web Search Engines
 
 + Elements of Good Search Results
