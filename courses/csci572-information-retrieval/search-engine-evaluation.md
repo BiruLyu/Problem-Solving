@@ -42,7 +42,7 @@ an aggregated performance score for the evaluation of algorithms and systems.
 The harmonic mean of the precision and the recall.
 
 
-  $$ F = \frac{2}{\frac{1}{R} + \frac{1}{P}} = \frac{2RP}{R + P} $$
+  $$ F = \frac{2}{\frac{1}{R} + \frac{1}{P}} = \frac{2RP}{R + P}$$
   $$ F_\beta  = \frac{(\beta^2 + 1)RP}{R + \beta^2P} $$
 
 

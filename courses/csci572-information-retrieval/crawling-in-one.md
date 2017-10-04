@@ -263,6 +263,25 @@ A **sitemap** is a list of pages of a web site accessible to crawlers.
 + XML is used as the standard for representing sitemaps. contains `<loc>`, `<lastmod>`, `<changefreq>`, and `<priority>`
 
 
+# URL frontier Using Mercator schema
 
+![](https://ws3.sinaimg.cn/large/006tNc79gy1fk5sn2me69j31060yq78h.jpg)
 
+![](https://ws2.sinaimg.cn/large/006tNc79gy1fk5skfgfb3j30zo0te78i.jpg)
+![](https://ws4.sinaimg.cn/large/006tNc79gy1fk5sm672hgj30zi0iwtau.jpg)
+![](https://ws2.sinaimg.cn/large/006tNc79gy1fk5snlt77jj31kw0rodkc.jpg)
+![](https://ws2.sinaimg.cn/large/006tNc79gy1fk5sqppw7hj30x617u0w1.jpg)
+![](https://ws4.sinaimg.cn/large/006tNc79gy1fk5sq4onj9j30zu0yqgoj.jpg)
+![](https://ws2.sinaimg.cn/large/006tNc79gy1fk5srmjwpdj30yw0te0vs.jpg)
+![](https://ws2.sinaimg.cn/large/006tNc79gy1fk5sxqb0mcj31jg114djw.jpg)
+1. kind of round-robin
+2. give different probilities
+![](https://ws3.sinaimg.cn/large/006tNc79gy1fk5szrvvazj30jg0d40t3.jpg)
+![](https://ws4.sinaimg.cn/large/006tNc79gy1fk5t448jtrj30ze0x40vw.jpg)
 
+![](https://ws4.sinaimg.cn/large/006tNc79gy1fk5tcb29lhj31kw116dmq.jpg)
+![](https://ws1.sinaimg.cn/large/006tNc79gy1fk5tcyvxwoj31kw0zxwlk.jpg)
+![](https://ws1.sinaimg.cn/large/006tNc79gy1fk5tfcchj8j30zm0yq0w3.jpg)
+![](https://ws4.sinaimg.cn/large/006tNc79gy1fk5tfw76ooj30zu0rygot.jpg)
+![](https://ws1.sinaimg.cn/large/006tNc79gy1fk5ti8pgvpj30zk0wstd2.jpg)
+![](https://ws4.sinaimg.cn/large/006tNc79gy1fk5tp3fgm3j31020eotar.jpg)
