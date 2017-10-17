@@ -193,7 +193,7 @@ Binary Search Tree
 - [ ] 285 Inorder Successor in BST	
 - [x] [352. Data Stream as Disjoint Intervals](https://gist.github.com/BiruLyu/4493122d0446b342812a95a94414f24f)
 - [x] [449. Serialize and Deserialize BST](https://gist.github.com/BiruLyu/8d314ef55539176646476da3c7d3309c#file-449-serialize-and-deserialize-bst-java)
-- [x] [450. Delete Node in a BST.java](https://gist.github.com/BiruLyu/50dfaac19ab72e486d1fbe316a3a6929)
+- [x] [450. Delete Node in a BST](https://gist.github.com/BiruLyu/50dfaac19ab72e486d1fbe316a3a6929)
 
 2017.5.26
 Breadth-First Search
